@@ -1,0 +1,2 @@
+You have to install rbenv, monggodb and ruby to run this project..
+and dont forget to run command in the Dockerfile file

@@ -1,0 +1,1530 @@
+Started GET "/api/v1/swagger_doc" for ::1 at 2020-12-08 11:28:00 +0700
+  
+ActionController::RoutingError (No route matches [GET] "/api/v1/swagger_doc"):
+  
+actionpack (5.1.7) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.7) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.7) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.7) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.2) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.2.3) lib/rack/method_override.rb:24:in `call'
+rack (2.2.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.7) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.2.3) lib/rack/sendfile.rb:110:in `call'
+railties (5.1.7) lib/rails/engine.rb:522:in `call'
+puma (3.12.6) lib/puma/configuration.rb:227:in `call'
+puma (3.12.6) lib/puma/server.rb:706:in `handle_request'
+puma (3.12.6) lib/puma/server.rb:476:in `process_client'
+puma (3.12.6) lib/puma/server.rb:334:in `block in run'
+puma (3.12.6) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+Started GET "/api/v1/swagger_doc" for ::1 at 2020-12-08 11:29:17 +0700
+  
+ActionController::RoutingError (No route matches [GET] "/api/v1/swagger_doc"):
+  
+actionpack (5.1.7) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.7) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.7) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.7) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.2) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.2.3) lib/rack/method_override.rb:24:in `call'
+rack (2.2.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.7) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.2.3) lib/rack/sendfile.rb:110:in `call'
+railties (5.1.7) lib/rails/engine.rb:522:in `call'
+puma (3.12.6) lib/puma/configuration.rb:227:in `call'
+puma (3.12.6) lib/puma/server.rb:706:in `handle_request'
+puma (3.12.6) lib/puma/server.rb:476:in `process_client'
+puma (3.12.6) lib/puma/server.rb:334:in `block in run'
+puma (3.12.6) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+Started GET "/documentation" for ::1 at 2020-12-08 11:29:25 +0700
+Processing by GrapeSwaggerRails::ApplicationController#index as HTML
+  Rendering /var/lib/gems/2.7.0/gems/grape-swagger-rails-0.3.1/app/views/grape_swagger_rails/application/index.html.erb
+  Rendered /var/lib/gems/2.7.0/gems/grape-swagger-rails-0.3.1/app/views/grape_swagger_rails/application/index.html.erb (448.5ms)
+Completed 200 OK in 654ms (Views: 450.4ms)
+
+
+Started GET "/documentation/localhost:3009" for ::1 at 2020-12-08 11:29:40 +0700
+  
+ActionController::RoutingError (No route matches [GET] "/documentation/localhost:3009"):
+  
+actionpack (5.1.7) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.7) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.7) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.7) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.2) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.2.3) lib/rack/method_override.rb:24:in `call'
+rack (2.2.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.7) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.2.3) lib/rack/sendfile.rb:110:in `call'
+railties (5.1.7) lib/rails/engine.rb:522:in `call'
+puma (3.12.6) lib/puma/configuration.rb:227:in `call'
+puma (3.12.6) lib/puma/server.rb:706:in `handle_request'
+puma (3.12.6) lib/puma/server.rb:476:in `process_client'
+puma (3.12.6) lib/puma/server.rb:334:in `block in run'
+puma (3.12.6) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+Started GET "/documentation/localhost:3009" for ::1 at 2020-12-08 11:29:41 +0700
+  
+ActionController::RoutingError (No route matches [GET] "/documentation/localhost:3009"):
+  
+actionpack (5.1.7) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.7) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.7) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.7) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.2) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.2.3) lib/rack/method_override.rb:24:in `call'
+rack (2.2.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.7) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.2.3) lib/rack/sendfile.rb:110:in `call'
+railties (5.1.7) lib/rails/engine.rb:522:in `call'
+puma (3.12.6) lib/puma/configuration.rb:227:in `call'
+puma (3.12.6) lib/puma/server.rb:706:in `handle_request'
+puma (3.12.6) lib/puma/server.rb:476:in `process_client'
+puma (3.12.6) lib/puma/server.rb:334:in `block in run'
+puma (3.12.6) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+Started GET "/documentation/" for ::1 at 2020-12-08 11:29:50 +0700
+Processing by GrapeSwaggerRails::ApplicationController#index as HTML
+  Rendering /var/lib/gems/2.7.0/gems/grape-swagger-rails-0.3.1/app/views/grape_swagger_rails/application/index.html.erb
+  Rendered /var/lib/gems/2.7.0/gems/grape-swagger-rails-0.3.1/app/views/grape_swagger_rails/application/index.html.erb (62.9ms)
+Completed 200 OK in 76ms (Views: 72.1ms)
+
+
+Started GET "/documentation/" for ::1 at 2020-12-08 11:29:52 +0700
+Processing by GrapeSwaggerRails::ApplicationController#index as HTML
+  Rendering /var/lib/gems/2.7.0/gems/grape-swagger-rails-0.3.1/app/views/grape_swagger_rails/application/index.html.erb
+  Rendered /var/lib/gems/2.7.0/gems/grape-swagger-rails-0.3.1/app/views/grape_swagger_rails/application/index.html.erb (28.9ms)
+Completed 200 OK in 41ms (Views: 36.3ms)
+
+
+Started GET "/" for ::1 at 2020-12-08 11:34:26 +0700
+Processing by Rails::WelcomeController#index as */*
+  Rendering /var/lib/gems/2.7.0/gems/railties-5.1.7/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /var/lib/gems/2.7.0/gems/railties-5.1.7/lib/rails/templates/rails/welcome/index.html.erb (3.1ms)
+Completed 200 OK in 12ms (Views: 7.1ms)
+
+
+Started GET "/" for ::1 at 2020-12-08 11:34:43 +0700
+Processing by Rails::WelcomeController#index as */*
+  Rendering /var/lib/gems/2.7.0/gems/railties-5.1.7/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /var/lib/gems/2.7.0/gems/railties-5.1.7/lib/rails/templates/rails/welcome/index.html.erb (4.3ms)
+Completed 200 OK in 11ms (Views: 7.4ms)
+
+
+Started GET "/api/v1/tests" for ::1 at 2020-12-08 11:36:01 +0700
+  
+ActionController::RoutingError (No route matches [GET] "/api/v1/tests"):
+  
+actionpack (5.1.7) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.7) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.7) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.7) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.2) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.2.3) lib/rack/method_override.rb:24:in `call'
+rack (2.2.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.7) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.2.3) lib/rack/sendfile.rb:110:in `call'
+railties (5.1.7) lib/rails/engine.rb:522:in `call'
+puma (3.12.6) lib/puma/configuration.rb:227:in `call'
+puma (3.12.6) lib/puma/server.rb:706:in `handle_request'
+puma (3.12.6) lib/puma/server.rb:476:in `process_client'
+puma (3.12.6) lib/puma/server.rb:334:in `block in run'
+puma (3.12.6) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+Started GET "/api/v1/tests" for ::1 at 2020-12-09 01:08:13 +0700
+  
+ActionController::RoutingError (No route matches [GET] "/api/v1/tests"):
+  
+actionpack (5.1.7) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.7) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.7) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.7) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.2) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.2.3) lib/rack/method_override.rb:24:in `call'
+rack (2.2.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.7) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.2.3) lib/rack/sendfile.rb:110:in `call'
+railties (5.1.7) lib/rails/engine.rb:522:in `call'
+puma (3.12.6) lib/puma/configuration.rb:227:in `call'
+puma (3.12.6) lib/puma/server.rb:706:in `handle_request'
+puma (3.12.6) lib/puma/server.rb:476:in `process_client'
+puma (3.12.6) lib/puma/server.rb:334:in `block in run'
+puma (3.12.6) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+Started GET "/v1/tests" for ::1 at 2020-12-09 01:09:02 +0700
+  
+ActionController::RoutingError (No route matches [GET] "/v1/tests"):
+  
+actionpack (5.1.7) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.7) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.7) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.7) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.2) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.2.3) lib/rack/method_override.rb:24:in `call'
+rack (2.2.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.7) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.2.3) lib/rack/sendfile.rb:110:in `call'
+railties (5.1.7) lib/rails/engine.rb:522:in `call'
+puma (3.12.6) lib/puma/configuration.rb:227:in `call'
+puma (3.12.6) lib/puma/server.rb:706:in `handle_request'
+puma (3.12.6) lib/puma/server.rb:476:in `process_client'
+puma (3.12.6) lib/puma/server.rb:334:in `block in run'
+puma (3.12.6) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+Started GET "/tests/index" for ::1 at 2020-12-09 01:09:28 +0700
+  
+ActionController::RoutingError (No route matches [GET] "/tests/index"):
+  
+actionpack (5.1.7) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.7) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.7) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.7) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.2) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.2.3) lib/rack/method_override.rb:24:in `call'
+rack (2.2.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.7) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.2.3) lib/rack/sendfile.rb:110:in `call'
+railties (5.1.7) lib/rails/engine.rb:522:in `call'
+puma (3.12.6) lib/puma/configuration.rb:227:in `call'
+puma (3.12.6) lib/puma/server.rb:706:in `handle_request'
+puma (3.12.6) lib/puma/server.rb:476:in `process_client'
+puma (3.12.6) lib/puma/server.rb:334:in `block in run'
+puma (3.12.6) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+Started GET "/tests/index" for ::1 at 2020-12-09 01:09:51 +0700
+  
+ActionController::RoutingError (No route matches [GET] "/tests/index"):
+  
+actionpack (5.1.7) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.7) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.7) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.7) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.2) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.2.3) lib/rack/method_override.rb:24:in `call'
+rack (2.2.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.7) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.2.3) lib/rack/sendfile.rb:110:in `call'
+railties (5.1.7) lib/rails/engine.rb:522:in `call'
+puma (3.12.6) lib/puma/configuration.rb:227:in `call'
+puma (3.12.6) lib/puma/server.rb:706:in `handle_request'
+puma (3.12.6) lib/puma/server.rb:476:in `process_client'
+puma (3.12.6) lib/puma/server.rb:334:in `block in run'
+puma (3.12.6) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[35m (10.2ms)[0m  [1m[35mCREATE TABLE "schema_migrations" ("version" varchar NOT NULL PRIMARY KEY)[0m
+  [1m[35m (26.9ms)[0m  [1m[35mCREATE TABLE "ar_internal_metadata" ("key" varchar NOT NULL PRIMARY KEY, "value" varchar, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL)[0m
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Migrating to CreateDocumentService (20201208182604)
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Migrating to CreateDocumentService (20201208182604)
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[35m (1.2ms)[0m  [1m[35mCREATE TABLE "document_services" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "name" varchar, "type" ENUM('folder','file') DEFAULT 'folder', "is_public" boolean DEFAULT 't', "share" varchar, "timestamp" varchar)[0m
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.9ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Migrating to CreateDocumentService (20201208182604)
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[35m (1.7ms)[0m  [1m[35mCREATE TABLE "document_services" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "name" varchar, "type" ENUM('folder', 'file'), "is_public" boolean DEFAULT 't', "share" varchar, "timestamp" varchar)[0m
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Migrating to CreateDocumentService (20201208182604)
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[35m (0.2ms)[0m  [1m[35mCREATE TABLE "document_services" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "name" varchar, "type" ENUM('folder', 'file'), "is_public" boolean DEFAULT 't', "share" varchar, "timestamp" varchar)[0m
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Migrating to CreateDocumentService (20201208182604)
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[35m (1.4ms)[0m  [1m[35mCREATE TABLE "document_services" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "name" varchar, "type" ENUM('folder', 'file') DEFAULT 'folder', "is_public" boolean DEFAULT 't', "share" varchar, "timestamp" varchar)[0m
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Migrating to CreateDocumentService (20201208182604)
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Migrating to CreateDocumentService (20201208182604)
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Migrating to CreateDocumentService (20201208182604)
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[35m (0.4ms)[0m  [1m[35mCREATE TABLE "document_services" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "name" varchar, "type" integer DEFAULT 0, "is_public" boolean DEFAULT 't', "share" varchar, "timestamp" varchar)[0m
+  [1m[35mSQL (0.2ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES (?)[0m  [["version", "20201208182604"]]
+  [1m[35m (2.1ms)[0m  [1m[36mcommit transaction[0m
+Migrating to CreateAuthentications (20201208192423)
+  [1m[35m (1.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35m (0.3ms)[0m  [1m[35mCREATE TABLE "authentications" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "token" varchar, "expired_at" varchar, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL)[0m
+  [1m[35mSQL (0.2ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES (?)[0m  [["version", "20201208192423"]]
+  [1m[35m (2.2ms)[0m  [1m[36mcommit transaction[0m
+  [1m[36mActiveRecord::InternalMetadata Load (0.3ms)[0m  [1m[34mSELECT  "ar_internal_metadata".* FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = ? LIMIT ?[0m  [["key", "environment"], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (0.4ms)[0m  [1m[32mINSERT INTO "ar_internal_metadata" ("key", "value", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["key", "environment"], ["value", "development"], ["created_at", "2020-12-08 20:04:27.743505"], ["updated_at", "2020-12-08 20:04:27.743505"]]
+  [1m[35m (4.4ms)[0m  [1m[36mcommit transaction[0m
+  [1m[35m (0.3ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mActiveRecord::InternalMetadata Load (0.1ms)[0m  [1m[34mSELECT  "ar_internal_metadata".* FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = ? LIMIT ?[0m  [["key", "environment"], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mcommit transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Started GET "/api/auth" for ::1 at 2020-12-09 03:06:46 +0700
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  
+ActionController::RoutingError (No route matches [GET] "/api/auth"):
+  
+actionpack (5.1.7) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.7) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.7) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.7) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.2) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.2.3) lib/rack/method_override.rb:24:in `call'
+rack (2.2.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.7) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.2.3) lib/rack/sendfile.rb:110:in `call'
+railties (5.1.7) lib/rails/engine.rb:522:in `call'
+puma (3.12.6) lib/puma/configuration.rb:227:in `call'
+puma (3.12.6) lib/puma/server.rb:706:in `handle_request'
+puma (3.12.6) lib/puma/server.rb:476:in `process_client'
+puma (3.12.6) lib/puma/server.rb:334:in `block in run'
+puma (3.12.6) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+Started GET "/api/auth" for ::1 at 2020-12-09 03:06:59 +0700
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  
+ActionController::RoutingError (No route matches [GET] "/api/auth"):
+  
+actionpack (5.1.7) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.7) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.7) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.7) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.2) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.2.3) lib/rack/method_override.rb:24:in `call'
+rack (2.2.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.7) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.2.3) lib/rack/sendfile.rb:110:in `call'
+railties (5.1.7) lib/rails/engine.rb:522:in `call'
+puma (3.12.6) lib/puma/configuration.rb:227:in `call'
+puma (3.12.6) lib/puma/server.rb:706:in `handle_request'
+puma (3.12.6) lib/puma/server.rb:476:in `process_client'
+puma (3.12.6) lib/puma/server.rb:334:in `block in run'
+puma (3.12.6) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+Started GET "//api/auth" for ::1 at 2020-12-09 03:07:33 +0700
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  
+ActionController::RoutingError (No route matches [GET] "/api/auth"):
+  
+actionpack (5.1.7) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.7) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.7) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.7) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.2) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.2.3) lib/rack/method_override.rb:24:in `call'
+rack (2.2.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.7) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.2.3) lib/rack/sendfile.rb:110:in `call'
+railties (5.1.7) lib/rails/engine.rb:522:in `call'
+puma (3.12.6) lib/puma/configuration.rb:227:in `call'
+puma (3.12.6) lib/puma/server.rb:706:in `handle_request'
+puma (3.12.6) lib/puma/server.rb:476:in `process_client'
+puma (3.12.6) lib/puma/server.rb:334:in `block in run'
+puma (3.12.6) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+Started GET "/api/auth" for ::1 at 2020-12-09 03:08:28 +0700
+  
+ActionController::RoutingError (No route matches [GET] "/api/auth"):
+  
+actionpack (5.1.7) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.7) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.7) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.7) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.2) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.2.3) lib/rack/method_override.rb:24:in `call'
+rack (2.2.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.7) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.2.3) lib/rack/sendfile.rb:110:in `call'
+railties (5.1.7) lib/rails/engine.rb:522:in `call'
+puma (3.12.6) lib/puma/configuration.rb:227:in `call'
+puma (3.12.6) lib/puma/server.rb:706:in `handle_request'
+puma (3.12.6) lib/puma/server.rb:476:in `process_client'
+puma (3.12.6) lib/puma/server.rb:334:in `block in run'
+puma (3.12.6) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+Started GET "/" for ::1 at 2020-12-09 03:08:31 +0700
+Processing by Rails::WelcomeController#index as */*
+  Rendering /var/lib/gems/2.7.0/gems/railties-5.1.7/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /var/lib/gems/2.7.0/gems/railties-5.1.7/lib/rails/templates/rails/welcome/index.html.erb (3.4ms)
+Completed 200 OK in 13ms (Views: 8.2ms | ActiveRecord: 0.0ms | MongoDB: 0.0ms)
+
+
+Started GET "/api" for ::1 at 2020-12-09 03:08:37 +0700
+  
+ActionController::RoutingError (No route matches [GET] "/api"):
+  
+actionpack (5.1.7) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.7) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.7) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.7) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.2) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.2.3) lib/rack/method_override.rb:24:in `call'
+rack (2.2.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.7) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.2.3) lib/rack/sendfile.rb:110:in `call'
+railties (5.1.7) lib/rails/engine.rb:522:in `call'
+puma (3.12.6) lib/puma/configuration.rb:227:in `call'
+puma (3.12.6) lib/puma/server.rb:706:in `handle_request'
+puma (3.12.6) lib/puma/server.rb:476:in `process_client'
+puma (3.12.6) lib/puma/server.rb:334:in `block in run'
+puma (3.12.6) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+Started GET "/api/auth" for ::1 at 2020-12-09 03:09:49 +0700
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  
+ActionController::RoutingError (No route matches [GET] "/api/auth"):
+  
+actionpack (5.1.7) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.7) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.7) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.7) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.2) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.2.3) lib/rack/method_override.rb:24:in `call'
+rack (2.2.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.7) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.2.3) lib/rack/sendfile.rb:110:in `call'
+railties (5.1.7) lib/rails/engine.rb:522:in `call'
+puma (3.12.6) lib/puma/configuration.rb:227:in `call'
+puma (3.12.6) lib/puma/server.rb:706:in `handle_request'
+puma (3.12.6) lib/puma/server.rb:476:in `process_client'
+puma (3.12.6) lib/puma/server.rb:334:in `block in run'
+puma (3.12.6) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+Started GET "/api/auth" for ::1 at 2020-12-09 03:11:36 +0700
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  
+ActionController::RoutingError (No route matches [GET] "/api/auth"):
+  
+actionpack (5.1.7) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.7) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.7) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.7) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.2) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.2.3) lib/rack/method_override.rb:24:in `call'
+rack (2.2.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.7) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.2.3) lib/rack/sendfile.rb:110:in `call'
+railties (5.1.7) lib/rails/engine.rb:522:in `call'
+puma (3.12.6) lib/puma/configuration.rb:227:in `call'
+puma (3.12.6) lib/puma/server.rb:706:in `handle_request'
+puma (3.12.6) lib/puma/server.rb:476:in `process_client'
+puma (3.12.6) lib/puma/server.rb:334:in `block in run'
+puma (3.12.6) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+Started GET "/api/auth" for ::1 at 2020-12-09 03:14:55 +0700
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  
+ActionController::RoutingError (No route matches [GET] "/api/auth"):
+  
+actionpack (5.1.7) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.7) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.7) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.7) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.2) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.2.3) lib/rack/method_override.rb:24:in `call'
+rack (2.2.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.7) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.2.3) lib/rack/sendfile.rb:110:in `call'
+railties (5.1.7) lib/rails/engine.rb:522:in `call'
+puma (3.12.6) lib/puma/configuration.rb:227:in `call'
+puma (3.12.6) lib/puma/server.rb:706:in `handle_request'
+puma (3.12.6) lib/puma/server.rb:476:in `process_client'
+puma (3.12.6) lib/puma/server.rb:334:in `block in run'
+puma (3.12.6) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+Started GET "/api/auth" for ::1 at 2020-12-09 03:14:57 +0700
+  
+ActionController::RoutingError (No route matches [GET] "/api/auth"):
+  
+actionpack (5.1.7) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.7) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.7) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.7) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.2) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.2.3) lib/rack/method_override.rb:24:in `call'
+rack (2.2.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.7) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.2.3) lib/rack/sendfile.rb:110:in `call'
+railties (5.1.7) lib/rails/engine.rb:522:in `call'
+puma (3.12.6) lib/puma/configuration.rb:227:in `call'
+puma (3.12.6) lib/puma/server.rb:706:in `handle_request'
+puma (3.12.6) lib/puma/server.rb:476:in `process_client'
+puma (3.12.6) lib/puma/server.rb:334:in `block in run'
+puma (3.12.6) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+Started GET "/api/auth" for ::1 at 2020-12-09 03:14:58 +0700
+  
+ActionController::RoutingError (No route matches [GET] "/api/auth"):
+  
+actionpack (5.1.7) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.7) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.7) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.7) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.2) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.2.3) lib/rack/method_override.rb:24:in `call'
+rack (2.2.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.7) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.2.3) lib/rack/sendfile.rb:110:in `call'
+railties (5.1.7) lib/rails/engine.rb:522:in `call'
+puma (3.12.6) lib/puma/configuration.rb:227:in `call'
+puma (3.12.6) lib/puma/server.rb:706:in `handle_request'
+puma (3.12.6) lib/puma/server.rb:476:in `process_client'
+puma (3.12.6) lib/puma/server.rb:334:in `block in run'
+puma (3.12.6) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+Started GET "/api/auth" for ::1 at 2020-12-09 03:14:59 +0700
+  
+ActionController::RoutingError (No route matches [GET] "/api/auth"):
+  
+actionpack (5.1.7) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.7) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.7) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.7) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.2) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.2.3) lib/rack/method_override.rb:24:in `call'
+rack (2.2.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.7) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.2.3) lib/rack/sendfile.rb:110:in `call'
+railties (5.1.7) lib/rails/engine.rb:522:in `call'
+puma (3.12.6) lib/puma/configuration.rb:227:in `call'
+puma (3.12.6) lib/puma/server.rb:706:in `handle_request'
+puma (3.12.6) lib/puma/server.rb:476:in `process_client'
+puma (3.12.6) lib/puma/server.rb:334:in `block in run'
+puma (3.12.6) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+Started GET "/api/v1/tests/index" for ::1 at 2020-12-09 03:15:51 +0700
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  
+ActionController::RoutingError (No route matches [GET] "/api/v1/tests/index"):
+  
+actionpack (5.1.7) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.7) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.7) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.7) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.2) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.2.3) lib/rack/method_override.rb:24:in `call'
+rack (2.2.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.7) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.2.3) lib/rack/sendfile.rb:110:in `call'
+railties (5.1.7) lib/rails/engine.rb:522:in `call'
+puma (3.12.6) lib/puma/configuration.rb:227:in `call'
+puma (3.12.6) lib/puma/server.rb:706:in `handle_request'
+puma (3.12.6) lib/puma/server.rb:476:in `process_client'
+puma (3.12.6) lib/puma/server.rb:334:in `block in run'
+puma (3.12.6) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+Started GET "/api/v1/tests/index" for ::1 at 2020-12-09 03:15:53 +0700
+  
+ActionController::RoutingError (No route matches [GET] "/api/v1/tests/index"):
+  
+actionpack (5.1.7) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.7) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.7) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.7) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.2) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.2.3) lib/rack/method_override.rb:24:in `call'
+rack (2.2.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.7) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.2.3) lib/rack/sendfile.rb:110:in `call'
+railties (5.1.7) lib/rails/engine.rb:522:in `call'
+puma (3.12.6) lib/puma/configuration.rb:227:in `call'
+puma (3.12.6) lib/puma/server.rb:706:in `handle_request'
+puma (3.12.6) lib/puma/server.rb:476:in `process_client'
+puma (3.12.6) lib/puma/server.rb:334:in `block in run'
+puma (3.12.6) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+Started GET "/api/v1/tests/index" for ::1 at 2020-12-09 03:15:54 +0700
+  
+ActionController::RoutingError (No route matches [GET] "/api/v1/tests/index"):
+  
+actionpack (5.1.7) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.7) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.7) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.7) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.2) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.2.3) lib/rack/method_override.rb:24:in `call'
+rack (2.2.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.7) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.2.3) lib/rack/sendfile.rb:110:in `call'
+railties (5.1.7) lib/rails/engine.rb:522:in `call'
+puma (3.12.6) lib/puma/configuration.rb:227:in `call'
+puma (3.12.6) lib/puma/server.rb:706:in `handle_request'
+puma (3.12.6) lib/puma/server.rb:476:in `process_client'
+puma (3.12.6) lib/puma/server.rb:334:in `block in run'
+puma (3.12.6) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+Started GET "/api/v1/tests/index" for ::1 at 2020-12-09 03:18:09 +0700
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  
+ActionController::RoutingError (No route matches [GET] "/api/v1/tests/index"):
+  
+actionpack (5.1.7) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.7) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.7) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.7) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.2) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.2.3) lib/rack/method_override.rb:24:in `call'
+rack (2.2.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.7) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.2.3) lib/rack/sendfile.rb:110:in `call'
+railties (5.1.7) lib/rails/engine.rb:522:in `call'
+puma (3.12.6) lib/puma/configuration.rb:227:in `call'
+puma (3.12.6) lib/puma/server.rb:706:in `handle_request'
+puma (3.12.6) lib/puma/server.rb:476:in `process_client'
+puma (3.12.6) lib/puma/server.rb:334:in `block in run'
+puma (3.12.6) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+Started GET "/auth" for ::1 at 2020-12-09 03:19:51 +0700
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  
+ActionController::RoutingError (No route matches [GET] "/auth"):
+  
+actionpack (5.1.7) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.7) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.7) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.7) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.2) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.2.3) lib/rack/method_override.rb:24:in `call'
+rack (2.2.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.7) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.2.3) lib/rack/sendfile.rb:110:in `call'
+railties (5.1.7) lib/rails/engine.rb:522:in `call'
+puma (3.12.6) lib/puma/configuration.rb:227:in `call'
+puma (3.12.6) lib/puma/server.rb:706:in `handle_request'
+puma (3.12.6) lib/puma/server.rb:476:in `process_client'
+puma (3.12.6) lib/puma/server.rb:334:in `block in run'
+puma (3.12.6) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+Started GET "/auth" for ::1 at 2020-12-09 03:19:52 +0700
+  
+ActionController::RoutingError (No route matches [GET] "/auth"):
+  
+actionpack (5.1.7) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.7) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.7) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.7) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.2) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.2.3) lib/rack/method_override.rb:24:in `call'
+rack (2.2.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.7) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.2.3) lib/rack/sendfile.rb:110:in `call'
+railties (5.1.7) lib/rails/engine.rb:522:in `call'
+puma (3.12.6) lib/puma/configuration.rb:227:in `call'
+puma (3.12.6) lib/puma/server.rb:706:in `handle_request'
+puma (3.12.6) lib/puma/server.rb:476:in `process_client'
+puma (3.12.6) lib/puma/server.rb:334:in `block in run'
+puma (3.12.6) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+Started GET "/auth" for ::1 at 2020-12-09 03:19:56 +0700
+  
+ActionController::RoutingError (No route matches [GET] "/auth"):
+  
+actionpack (5.1.7) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.7) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.7) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.7) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.2) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.2.3) lib/rack/method_override.rb:24:in `call'
+rack (2.2.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.7) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.2.3) lib/rack/sendfile.rb:110:in `call'
+railties (5.1.7) lib/rails/engine.rb:522:in `call'
+puma (3.12.6) lib/puma/configuration.rb:227:in `call'
+puma (3.12.6) lib/puma/server.rb:706:in `handle_request'
+puma (3.12.6) lib/puma/server.rb:476:in `process_client'
+puma (3.12.6) lib/puma/server.rb:334:in `block in run'
+puma (3.12.6) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+Started GET "/auth" for ::1 at 2020-12-09 03:20:04 +0700
+  
+ActionController::RoutingError (No route matches [GET] "/auth"):
+  
+actionpack (5.1.7) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.7) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.7) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.7) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.2) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.2.3) lib/rack/method_override.rb:24:in `call'
+rack (2.2.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.7) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.2.3) lib/rack/sendfile.rb:110:in `call'
+railties (5.1.7) lib/rails/engine.rb:522:in `call'
+puma (3.12.6) lib/puma/configuration.rb:227:in `call'
+puma (3.12.6) lib/puma/server.rb:706:in `handle_request'
+puma (3.12.6) lib/puma/server.rb:476:in `process_client'
+puma (3.12.6) lib/puma/server.rb:334:in `block in run'
+puma (3.12.6) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+Started PUT "/__web_console/repl_sessions/ebf54046e89050ee038b9c84dc2c934a" for ::1 at 2020-12-09 03:20:18 +0700
+Started PUT "/__web_console/repl_sessions/ebf54046e89050ee038b9c84dc2c934a" for ::1 at 2020-12-09 03:20:19 +0700
+Started GET "/auth" for ::1 at 2020-12-09 03:22:35 +0700
+  [1m[35m (0.4ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  
+NoMethodError (undefined method `generate_token' for API::V1::Authentication:Class):
+  
+app/controllers/api/v1/authentication.rb:6:in `block (2 levels) in <class:Authentication>'
+Started GET "/api/auth" for ::1 at 2020-12-09 03:23:30 +0700
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  
+NoMethodError (undefined method `generate_token' for API::V1::Authentication:Class):
+  
+app/controllers/api/v1/authentication.rb:6:in `block (2 levels) in <class:Authentication>'
+Started GET "/api/auth" for ::1 at 2020-12-09 03:24:10 +0700
+  
+SystemExit (exit):
+  
+(byebug):1:in `exit'
+(byebug):1:in `block (2 levels) in <class:Authentication>'
+app/controllers/api/v1/authentication.rb:7:in `block (2 levels) in <class:Authentication>'
+Started GET "/api/auth" for ::1 at 2020-12-09 03:27:50 +0700
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  
+SyntaxError (/home/davidleonardopn/research/api-jojonomic/app/models/auth.rb:2: syntax error, unexpected ':'
+  self.table_name: "authentications"
+                 ^
+):
+  
+app/models/auth.rb:2: syntax error, unexpected ':'
+app/controllers/api/v1/authentication.rb:6:in `block (2 levels) in <class:Authentication>'
+Started GET "/api/auth" for ::1 at 2020-12-09 03:28:28 +0700
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (0.3ms)[0m  [1m[32mINSERT INTO "authentications" ("token", "expired_at", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["token", "eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJKb2pvbm9taWMiLCJpYXQiOjE2MDY2OTYyOTYsImV4cCI6MTYzODIzMjI5NiwiYXVkIjoiam9qb25vbWljLmNvbSIsInN1YiI6Impvam9hcmllZiIsImNvbXBhbnlfaWQiOiIxMzAiLCJ1c2VyX2lkIjoiMTIwIn0.w5-kcCWmvsGNJTZpRPiWmQ7TpEwgu_hQv-GAUpqUjPA"], ["expired_at", "2020-12-09 05:37:32 +0700"], ["created_at", "2020-12-08 20:37:32.120240"], ["updated_at", "2020-12-08 20:37:32.120240"]]
+  [1m[35m (1.6ms)[0m  [1m[36mcommit transaction[0m
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (1.0ms)[0m  [1m[32mINSERT INTO "authentications" ("token", "expired_at", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["token", "eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJKb2pvbm9taWMiLCJpYXQiOjE2MDY2OTYyOTYsImV4cCI6MTYzODIzMjI5NiwiYXVkIjoiam9qb25vbWljLmNvbSIsInN1YiI6Impvam9hcmllZiIsImNvbXBhbnlfaWQiOiIxMzAiLCJ1c2VyX2lkIjoiMTIwIn0.w5-kcCWmvsGNJTZpRPiWmQ7TpEwgu_hQv-GAUpqUjPA"], ["expired_at", "2020-12-09 05:37:56 +0700"], ["created_at", "2020-12-08 20:37:56.038136"], ["updated_at", "2020-12-08 20:37:56.038136"]]
+  [1m[35m (3.5ms)[0m  [1m[36mcommit transaction[0m
+Started GET "/api/auth" for ::1 at 2020-12-09 03:39:03 +0700
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (0.4ms)[0m  [1m[32mINSERT INTO "authentications" ("token", "expired_at", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["token", "eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJKb2pvbm9taWMiLCJpYXQiOjE2MDY2OTYyOTYsImV4cCI6MTYzODIzMjI5NiwiYXVkIjoiam9qb25vbWljLmNvbSIsInN1YiI6Impvam9hcmllZiIsImNvbXBhbnlfaWQiOiIxMzAiLCJ1c2VyX2lkIjoiMTIwIn0.w5-kcCWmvsGNJTZpRPiWmQ7TpEwgu_hQv-GAUpqUjPA"], ["expired_at", "2020-12-09 05:39:03 +0700"], ["created_at", "2020-12-08 20:39:03.513189"], ["updated_at", "2020-12-08 20:39:03.513189"]]
+  [1m[35m (1.8ms)[0m  [1m[36mcommit transaction[0m
+Started GET "/api/auth" for ::1 at 2020-12-09 03:39:07 +0700
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (0.9ms)[0m  [1m[32mINSERT INTO "authentications" ("token", "expired_at", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["token", "eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJKb2pvbm9taWMiLCJpYXQiOjE2MDY2OTYyOTYsImV4cCI6MTYzODIzMjI5NiwiYXVkIjoiam9qb25vbWljLmNvbSIsInN1YiI6Impvam9hcmllZiIsImNvbXBhbnlfaWQiOiIxMzAiLCJ1c2VyX2lkIjoiMTIwIn0.w5-kcCWmvsGNJTZpRPiWmQ7TpEwgu_hQv-GAUpqUjPA"], ["expired_at", "2020-12-09 05:39:07 +0700"], ["created_at", "2020-12-08 20:39:07.173906"], ["updated_at", "2020-12-08 20:39:07.173906"]]
+  [1m[35m (2.3ms)[0m  [1m[36mcommit transaction[0m
+Started GET "/api/auth" for ::1 at 2020-12-09 03:39:17 +0700
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (0.3ms)[0m  [1m[32mINSERT INTO "authentications" ("token", "expired_at", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["token", "eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJKb2pvbm9taWMiLCJpYXQiOjE2MDY2OTYyOTYsImV4cCI6MTYzODIzMjI5NiwiYXVkIjoiam9qb25vbWljLmNvbSIsInN1YiI6Impvam9hcmllZiIsImNvbXBhbnlfaWQiOiIxMzAiLCJ1c2VyX2lkIjoiMTIwIn0.w5-kcCWmvsGNJTZpRPiWmQ7TpEwgu_hQv-GAUpqUjPA"], ["expired_at", "2020-12-09 05:39:17 +0700"], ["created_at", "2020-12-08 20:39:17.303771"], ["updated_at", "2020-12-08 20:39:17.303771"]]
+  [1m[35m (2.4ms)[0m  [1m[36mcommit transaction[0m
+Started GET "/api/auth" for ::1 at 2020-12-09 03:39:18 +0700
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (0.3ms)[0m  [1m[32mINSERT INTO "authentications" ("token", "expired_at", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["token", "eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJKb2pvbm9taWMiLCJpYXQiOjE2MDY2OTYyOTYsImV4cCI6MTYzODIzMjI5NiwiYXVkIjoiam9qb25vbWljLmNvbSIsInN1YiI6Impvam9hcmllZiIsImNvbXBhbnlfaWQiOiIxMzAiLCJ1c2VyX2lkIjoiMTIwIn0.w5-kcCWmvsGNJTZpRPiWmQ7TpEwgu_hQv-GAUpqUjPA"], ["expired_at", "2020-12-09 05:39:18 +0700"], ["created_at", "2020-12-08 20:39:18.544974"], ["updated_at", "2020-12-08 20:39:18.544974"]]
+  [1m[35m (2.3ms)[0m  [1m[36mcommit transaction[0m
+Started GET "/api/auth" for ::1 at 2020-12-09 03:39:19 +0700
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (0.9ms)[0m  [1m[32mINSERT INTO "authentications" ("token", "expired_at", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["token", "eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJKb2pvbm9taWMiLCJpYXQiOjE2MDY2OTYyOTYsImV4cCI6MTYzODIzMjI5NiwiYXVkIjoiam9qb25vbWljLmNvbSIsInN1YiI6Impvam9hcmllZiIsImNvbXBhbnlfaWQiOiIxMzAiLCJ1c2VyX2lkIjoiMTIwIn0.w5-kcCWmvsGNJTZpRPiWmQ7TpEwgu_hQv-GAUpqUjPA"], ["expired_at", "2020-12-09 05:39:19 +0700"], ["created_at", "2020-12-08 20:39:19.691533"], ["updated_at", "2020-12-08 20:39:19.691533"]]
+  [1m[35m (2.7ms)[0m  [1m[36mcommit transaction[0m
+Started GET "/api/auth" for ::1 at 2020-12-09 03:39:20 +0700
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (0.3ms)[0m  [1m[32mINSERT INTO "authentications" ("token", "expired_at", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["token", "eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJKb2pvbm9taWMiLCJpYXQiOjE2MDY2OTYyOTYsImV4cCI6MTYzODIzMjI5NiwiYXVkIjoiam9qb25vbWljLmNvbSIsInN1YiI6Impvam9hcmllZiIsImNvbXBhbnlfaWQiOiIxMzAiLCJ1c2VyX2lkIjoiMTIwIn0.w5-kcCWmvsGNJTZpRPiWmQ7TpEwgu_hQv-GAUpqUjPA"], ["expired_at", "2020-12-09 05:39:20 +0700"], ["created_at", "2020-12-08 20:39:20.782046"], ["updated_at", "2020-12-08 20:39:20.782046"]]
+  [1m[35m (2.1ms)[0m  [1m[36mcommit transaction[0m
+Started GET "/api/auth" for ::1 at 2020-12-09 03:39:21 +0700
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (0.3ms)[0m  [1m[32mINSERT INTO "authentications" ("token", "expired_at", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["token", "eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJKb2pvbm9taWMiLCJpYXQiOjE2MDY2OTYyOTYsImV4cCI6MTYzODIzMjI5NiwiYXVkIjoiam9qb25vbWljLmNvbSIsInN1YiI6Impvam9hcmllZiIsImNvbXBhbnlfaWQiOiIxMzAiLCJ1c2VyX2lkIjoiMTIwIn0.w5-kcCWmvsGNJTZpRPiWmQ7TpEwgu_hQv-GAUpqUjPA"], ["expired_at", "2020-12-09 05:39:21 +0700"], ["created_at", "2020-12-08 20:39:21.761817"], ["updated_at", "2020-12-08 20:39:21.761817"]]
+  [1m[35m (2.3ms)[0m  [1m[36mcommit transaction[0m
+Started GET "/api/auth" for ::1 at 2020-12-09 03:39:52 +0700
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (0.4ms)[0m  [1m[32mINSERT INTO "authentications" ("token", "expired_at", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["token", "eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJKb2pvbm9taWMiLCJpYXQiOjE2MDY2OTYyOTYsImV4cCI6MTYzODIzMjI5NiwiYXVkIjoiam9qb25vbWljLmNvbSIsInN1YiI6Impvam9hcmllZiIsImNvbXBhbnlfaWQiOiIxMzAiLCJ1c2VyX2lkIjoiMTIwIn0.w5-kcCWmvsGNJTZpRPiWmQ7TpEwgu_hQv-GAUpqUjPA"], ["expired_at", "2020-12-09 05:39:52 +0700"], ["created_at", "2020-12-08 20:39:52.115220"], ["updated_at", "2020-12-08 20:39:52.115220"]]
+  [1m[35m (2.2ms)[0m  [1m[36mcommit transaction[0m
+Started GET "/api/auth" for ::1 at 2020-12-09 03:41:22 +0700
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (1.0ms)[0m  [1m[32mINSERT INTO "authentications" ("token", "expired_at", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["token", "eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJKb2pvbm9taWMiLCJpYXQiOjE2MDY2OTYyOTYsImV4cCI6MTYzODIzMjI5NiwiYXVkIjoiam9qb25vbWljLmNvbSIsInN1YiI6Impvam9hcmllZiIsImNvbXBhbnlfaWQiOiIxMzAiLCJ1c2VyX2lkIjoiMTIwIn0.w5-kcCWmvsGNJTZpRPiWmQ7TpEwgu_hQv-GAUpqUjPA"], ["expired_at", "2020-12-09 05:41:22 +0700"], ["created_at", "2020-12-08 20:41:22.290497"], ["updated_at", "2020-12-08 20:41:22.290497"]]
+  [1m[35m (2.0ms)[0m  [1m[36mcommit transaction[0m
+Started GET "/api/v1/document_service/index" for ::1 at 2020-12-09 03:49:26 +0700
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  
+SystemExit (exit):
+  
+(byebug):1:in `exit'
+(byebug):1:in `decoded_token'
+app/models/auth.rb:25:in `decoded_token'
+app/controllers/api/v1/document_service.rb:6:in `block in <class:DocumentService>'
+Started GET "/api/v1/document_service/index" for ::1 at 2020-12-09 03:53:17 +0700
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  
+SystemExit (exit):
+  
+(byebug):1:in `exit'
+(byebug):1:in `block in <class:DocumentService>'
+app/controllers/api/v1/document_service.rb:6:in `block in <class:DocumentService>'
+Started GET "/api/auth" for ::1 at 2020-12-09 03:54:29 +0700
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (0.3ms)[0m  [1m[32mINSERT INTO "authentications" ("token", "expired_at", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["token", "eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJKb2pvbm9taWMiLCJpYXQiOjE2MDY2OTYyOTYsImV4cCI6MTYzODIzMjI5NiwiYXVkIjoiam9qb25vbWljLmNvbSIsInN1YiI6Impvam9hcmllZiIsImNvbXBhbnlfaWQiOiIxMzAiLCJ1c2VyX2lkIjoiMTIwIn0.w5-kcCWmvsGNJTZpRPiWmQ7TpEwgu_hQv-GAUpqUjPA"], ["expired_at", "2020-12-09 05:54:29 +0700"], ["created_at", "2020-12-08 20:54:29.368801"], ["updated_at", "2020-12-08 20:54:29.368801"]]
+  [1m[35m (1.9ms)[0m  [1m[36mcommit transaction[0m
+Started GET "/api/v1/document_service/index" for ::1 at 2020-12-09 03:54:45 +0700
+  
+SystemExit (exit):
+  
+(byebug):1:in `exit'
+(byebug):1:in `decoded_token'
+app/models/auth.rb:24:in `decoded_token'
+app/controllers/api/v1/document_service.rb:6:in `block in <class:DocumentService>'
+Started GET "/api/v1/document_service/index" for ::1 at 2020-12-09 03:56:53 +0700
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Started GET "/api/v1/document_service/index" for ::1 at 2020-12-09 04:13:25 +0700
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mAuth Load (0.2ms)[0m  [1m[34mSELECT  "authentications".* FROM "authentications" WHERE "authentications"."token" = ? LIMIT ?[0m  [["token", "eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJKb2pvbm9taWMiLCJpYXQiOjE2MDY2OTYyOTYsImV4cCI6MTYzODIzMjI5NiwiYXVkIjoiam9qb25vbWljLmNvbSIsInN1YiI6Impvam9hcmllZiIsImNvbXBhbnlfaWQiOiIxMzAiLCJ1c2VyX2lkIjoiMTIwIn0.w5-kcCWmvsGNJTZpRPiWmQ7TpEwgu_hQv-GAUpqUjPA"], ["LIMIT", 1]]
+  
+NoMethodError (undefined method `last' for #<Auth:0x00007f29a8987ed8>):
+  
+app/models/auth.rb:25:in `decoded_token'
+app/controllers/api/v1/document_service.rb:7:in `block in <class:DocumentService>'
+Started GET "/api/v1/document_service/index" for ::1 at 2020-12-09 04:13:47 +0700
+  [1m[36mAuth Load (1.4ms)[0m  [1m[34mSELECT  "authentications".* FROM "authentications" WHERE "authentications"."token" = ? LIMIT ?[0m  [["token", "eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJKb2pvbm9taWMiLCJpYXQiOjE2MDY2OTYyOTYsImV4cCI6MTYzODIzMjI5NiwiYXVkIjoiam9qb25vbWljLmNvbSIsInN1YiI6Impvam9hcmllZiIsImNvbXBhbnlfaWQiOiIxMzAiLCJ1c2VyX2lkIjoiMTIwIn0.w5-kcCWmvsGNJTZpRPiWmQ7TpEwgu_hQv-GAUpqUjPA"], ["LIMIT", 1]]
+  [1m[36mCACHE Auth Load (0.1ms)[0m  [1m[34mSELECT  "authentications".* FROM "authentications" WHERE "authentications"."token" = ? LIMIT ?[0m  [["token", "eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJKb2pvbm9taWMiLCJpYXQiOjE2MDY2OTYyOTYsImV4cCI6MTYzODIzMjI5NiwiYXVkIjoiam9qb25vbWljLmNvbSIsInN1YiI6Impvam9hcmllZiIsImNvbXBhbnlfaWQiOiIxMzAiLCJ1c2VyX2lkIjoiMTIwIn0.w5-kcCWmvsGNJTZpRPiWmQ7TpEwgu_hQv-GAUpqUjPA"], ["LIMIT", 1]]
+  [1m[36mCACHE Auth Load (0.1ms)[0m  [1m[34mSELECT  "authentications".* FROM "authentications" WHERE "authentications"."token" = ? LIMIT ?[0m  [["token", "eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJKb2pvbm9taWMiLCJpYXQiOjE2MDY2OTYyOTYsImV4cCI6MTYzODIzMjI5NiwiYXVkIjoiam9qb25vbWljLmNvbSIsInN1YiI6Impvam9hcmllZiIsImNvbXBhbnlfaWQiOiIxMzAiLCJ1c2VyX2lkIjoiMTIwIn0.w5-kcCWmvsGNJTZpRPiWmQ7TpEwgu_hQv-GAUpqUjPA"], ["LIMIT", 1]]
+  
+NoMethodError (undefined method `last' for #<Auth:0x00007f29a84b7908>):
+  
+app/models/auth.rb:26:in `decoded_token'
+app/controllers/api/v1/document_service.rb:7:in `block in <class:DocumentService>'
+Started GET "/api/v1/document_service/index" for ::1 at 2020-12-09 04:14:32 +0700
+  [1m[36mAuth Load (1.0ms)[0m  [1m[34mSELECT  "authentications".* FROM "authentications" WHERE "authentications"."token" = ? ORDER BY "authentications"."id" DESC LIMIT ?[0m  [["token", "eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJKb2pvbm9taWMiLCJpYXQiOjE2MDY2OTYyOTYsImV4cCI6MTYzODIzMjI5NiwiYXVkIjoiam9qb25vbWljLmNvbSIsInN1YiI6Impvam9hcmllZiIsImNvbXBhbnlfaWQiOiIxMzAiLCJ1c2VyX2lkIjoiMTIwIn0.w5-kcCWmvsGNJTZpRPiWmQ7TpEwgu_hQv-GAUpqUjPA"], ["LIMIT", 1]]
+Started GET "/api/v1/document_service/index" for ::1 at 2020-12-09 04:14:56 +0700
+  [1m[36mAuth Load (0.9ms)[0m  [1m[34mSELECT  "authentications".* FROM "authentications" WHERE "authentications"."token" = ? ORDER BY "authentications"."id" DESC LIMIT ?[0m  [["token", "eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJKb2pvbm9taWMiLCJpYXQiOjE2MDY2OTYyOTYsImV4cCI6MTYzODIzMjI5NiwiYXVkIjoiam9qb25vbWljLmNvbSIsInN1YiI6Impvam9hcmllZiIsImNvbXBhbnlfaWQiOiIxMzAiLCJ1c2VyX2lkIjoiMTIwIn0.w5-kcCWmvsGNJTZpRPiWmQ7TpEwgu_hQv-GAUpqUjPA"], ["LIMIT", 1]]
+  [1m[36mCACHE Auth Load (0.1ms)[0m  [1m[34mSELECT  "authentications".* FROM "authentications" WHERE "authentications"."token" = ? ORDER BY "authentications"."id" DESC LIMIT ?[0m  [["token", "eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJKb2pvbm9taWMiLCJpYXQiOjE2MDY2OTYyOTYsImV4cCI6MTYzODIzMjI5NiwiYXVkIjoiam9qb25vbWljLmNvbSIsInN1YiI6Impvam9hcmllZiIsImNvbXBhbnlfaWQiOiIxMzAiLCJ1c2VyX2lkIjoiMTIwIn0.w5-kcCWmvsGNJTZpRPiWmQ7TpEwgu_hQv-GAUpqUjPA"], ["LIMIT", 1]]
+Started GET "/api/v1/document_service/index" for ::1 at 2020-12-09 04:15:49 +0700
+  [1m[36mAuth Load (0.3ms)[0m  [1m[34mSELECT  "authentications".* FROM "authentications" WHERE "authentications"."token" = ? ORDER BY "authentications"."id" DESC LIMIT ?[0m  [["token", "eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJKb2pvbm9taWMiLCJpYXQiOjE2MDY2OTYyOTYsImV4cCI6MTYzODIzMjI5NiwiYXVkIjoiam9qb25vbWljLmNvbSIsInN1YiI6Impvam9hcmllZiIsImNvbXBhbnlfaWQiOiIxMzAiLCJ1c2VyX2lkIjoiMTIwIn0.w5-kcCWmvsGNJTZpRPiWmQ7TpEwgu_hQv-GAUpqUjPA"], ["LIMIT", 1]]
+  [1m[36mCACHE Auth Load (0.1ms)[0m  [1m[34mSELECT  "authentications".* FROM "authentications" WHERE "authentications"."token" = ? ORDER BY "authentications"."id" DESC LIMIT ?[0m  [["token", "eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJKb2pvbm9taWMiLCJpYXQiOjE2MDY2OTYyOTYsImV4cCI6MTYzODIzMjI5NiwiYXVkIjoiam9qb25vbWljLmNvbSIsInN1YiI6Impvam9hcmllZiIsImNvbXBhbnlfaWQiOiIxMzAiLCJ1c2VyX2lkIjoiMTIwIn0.w5-kcCWmvsGNJTZpRPiWmQ7TpEwgu_hQv-GAUpqUjPA"], ["LIMIT", 1]]
+  [1m[36mCACHE Auth Load (0.0ms)[0m  [1m[34mSELECT  "authentications".* FROM "authentications" WHERE "authentications"."token" = ? ORDER BY "authentications"."id" DESC LIMIT ?[0m  [["token", "eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJKb2pvbm9taWMiLCJpYXQiOjE2MDY2OTYyOTYsImV4cCI6MTYzODIzMjI5NiwiYXVkIjoiam9qb25vbWljLmNvbSIsInN1YiI6Impvam9hcmllZiIsImNvbXBhbnlfaWQiOiIxMzAiLCJ1c2VyX2lkIjoiMTIwIn0.w5-kcCWmvsGNJTZpRPiWmQ7TpEwgu_hQv-GAUpqUjPA"], ["LIMIT", 1]]
+  
+TypeError (no implicit conversion of Symbol into Integer):
+  
+app/models/auth.rb:31:in `[]='
+app/models/auth.rb:31:in `decoded_token'
+app/controllers/api/v1/document_service.rb:7:in `block in <class:DocumentService>'
+Started GET "/api/v1/document_service/index" for ::1 at 2020-12-09 04:16:23 +0700
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mAuth Load (0.7ms)[0m  [1m[34mSELECT  "authentications".* FROM "authentications" WHERE "authentications"."token" = ? ORDER BY "authentications"."id" DESC LIMIT ?[0m  [["token", "eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJKb2pvbm9taWMiLCJpYXQiOjE2MDY2OTYyOTYsImV4cCI6MTYzODIzMjI5NiwiYXVkIjoiam9qb25vbWljLmNvbSIsInN1YiI6Impvam9hcmllZiIsImNvbXBhbnlfaWQiOiIxMzAiLCJ1c2VyX2lkIjoiMTIwIn0.w5-kcCWmvsGNJTZpRPiWmQ7TpEwgu_hQv-GAUpqUjPA"], ["LIMIT", 1]]
+  [1m[36mAuth Load (0.6ms)[0m  [1m[34mSELECT  "authentications".* FROM "authentications" WHERE "authentications"."token" = ? ORDER BY "authentications"."id" DESC LIMIT ?[0m  [["token", "eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJKb2pvbm9taWMiLCJpYXQiOjE2MDY2OTYyOTYsImV4cCI6MTYzODIzMjI5NiwiYXVkIjoiam9qb25vbWljLmNvbSIsInN1YiI6Impvam9hcmllZiIsImNvbXBhbnlfaWQiOiIxMzAiLCJ1c2VyX2lkIjoiMTIwIn0.w5-kcCWmvsGNJTZpRPiWmQ7TpEwgu_hQv-GAUpqUjPA"], ["LIMIT", 1]]
+  
+TypeError (no implicit conversion of Symbol into Integer):
+  
+app/models/auth.rb:31:in `[]='
+app/models/auth.rb:31:in `decoded_token'
+app/controllers/api/v1/document_service.rb:7:in `block in <class:DocumentService>'
+Started GET "/api/v1/document_service/index" for ::1 at 2020-12-09 04:16:54 +0700
+  [1m[36mAuth Load (1.0ms)[0m  [1m[34mSELECT  "authentications".* FROM "authentications" WHERE "authentications"."token" = ? ORDER BY "authentications"."id" DESC LIMIT ?[0m  [["token", "eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJKb2pvbm9taWMiLCJpYXQiOjE2MDY2OTYyOTYsImV4cCI6MTYzODIzMjI5NiwiYXVkIjoiam9qb25vbWljLmNvbSIsInN1YiI6Impvam9hcmllZiIsImNvbXBhbnlfaWQiOiIxMzAiLCJ1c2VyX2lkIjoiMTIwIn0.w5-kcCWmvsGNJTZpRPiWmQ7TpEwgu_hQv-GAUpqUjPA"], ["LIMIT", 1]]
+  [1m[36mCACHE Auth Load (0.0ms)[0m  [1m[34mSELECT  "authentications".* FROM "authentications" WHERE "authentications"."token" = ? ORDER BY "authentications"."id" DESC LIMIT ?[0m  [["token", "eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJKb2pvbm9taWMiLCJpYXQiOjE2MDY2OTYyOTYsImV4cCI6MTYzODIzMjI5NiwiYXVkIjoiam9qb25vbWljLmNvbSIsInN1YiI6Impvam9hcmllZiIsImNvbXBhbnlfaWQiOiIxMzAiLCJ1c2VyX2lkIjoiMTIwIn0.w5-kcCWmvsGNJTZpRPiWmQ7TpEwgu_hQv-GAUpqUjPA"], ["LIMIT", 1]]
+  
+TypeError (no implicit conversion of Symbol into Integer):
+  
+app/models/auth.rb:31:in `[]='
+app/models/auth.rb:31:in `decoded_token'
+app/controllers/api/v1/document_service.rb:7:in `block in <class:DocumentService>'
+Started GET "/api/v1/document_service/index" for ::1 at 2020-12-09 04:17:35 +0700
+  [1m[36mAuth Load (0.2ms)[0m  [1m[34mSELECT  "authentications".* FROM "authentications" WHERE "authentications"."token" = ? ORDER BY "authentications"."id" DESC LIMIT ?[0m  [["token", "eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJKb2pvbm9taWMiLCJpYXQiOjE2MDY2OTYyOTYsImV4cCI6MTYzODIzMjI5NiwiYXVkIjoiam9qb25vbWljLmNvbSIsInN1YiI6Impvam9hcmllZiIsImNvbXBhbnlfaWQiOiIxMzAiLCJ1c2VyX2lkIjoiMTIwIn0.w5-kcCWmvsGNJTZpRPiWmQ7TpEwgu_hQv-GAUpqUjPA"], ["LIMIT", 1]]
+Started GET "/api/v1/document_service/index" for ::1 at 2020-12-09 04:18:23 +0700
+  [1m[36mAuth Load (1.0ms)[0m  [1m[34mSELECT  "authentications".* FROM "authentications" WHERE "authentications"."token" = ? ORDER BY "authentications"."id" DESC LIMIT ?[0m  [["token", "eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJKb2pvbm9taWMiLCJpYXQiOjE2MDY2OTYyOTYsImV4cCI6MTYzODIzMjI5NiwiYXVkIjoiam9qb25vbWljLmNvbSIsInN1YiI6Impvam9hcmllZiIsImNvbXBhbnlfaWQiOiIxMzAiLCJ1c2VyX2lkIjoiMTIwIn0.w5-kcCWmvsGNJTZpRPiWmQ7TpEwgu_hQv-GAUpqUjPA"], ["LIMIT", 1]]
+Started GET "/api/v1/document_service/index" for ::1 at 2020-12-09 04:19:30 +0700
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mAuth Load (0.3ms)[0m  [1m[34mSELECT  "authentications".* FROM "authentications" WHERE "authentications"."token" = ? ORDER BY "authentications"."id" DESC LIMIT ?[0m  [["token", "eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJKb2pvbm9taWMiLCJpYXQiOjE2MDY2OTYyOTYsImV4cCI6MTYzODIzMjI5NiwiYXVkIjoiam9qb25vbWljLmNvbSIsInN1YiI6Impvam9hcmllZiIsImNvbXBhbnlfaWQiOiIxMzAiLCJ1c2VyX2lkIjoiMTIwIn0.w5-kcCWmvsGNJTZpRPiWmQ7TpEwgu_hQv-GAUpqUjPA"], ["LIMIT", 1]]
+Started GET "/api/v1/document_service/index" for ::1 at 2020-12-09 04:20:02 +0700
+  [1m[36mAuth Load (1.0ms)[0m  [1m[34mSELECT  "authentications".* FROM "authentications" WHERE "authentications"."token" = ? ORDER BY "authentications"."id" DESC LIMIT ?[0m  [["token", "eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJKb2pvbm9taWMiLCJpYXQiOjE2MDY2OTYyOTYsImV4cCI6MTYzODIzMjIsas5NiwiYXVkIjoiam9qb25vbWljLmNvbSIsInN1YiI6Impvam9hcmllZiIsImNvbXBhbnlfaWQiOiIxMzAiLCJ1c2VyX2lkIjoiMTIwIn0.w5-kcCWmvsGNJTZpRPiWmQ7TpEwgu_hQv-GAUpqUjPA"], ["LIMIT", 1]]
+Started GET "/api/v1/document_service/index" for ::1 at 2020-12-09 04:22:49 +0700
+  [1m[36mAuth Load (0.4ms)[0m  [1m[34mSELECT  "authentications".* FROM "authentications" WHERE "authentications"."token" = ? ORDER BY "authentications"."id" DESC LIMIT ?[0m  [["token", "eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJKb2pvbm9taWMiLCJpYXQiOjE2MDY2OTYyOTYsImV4cCI6MTYzODIzMjIsas5NiwiYXVkIjoiam9qb25vbWljLmNvbSIsInN1YiI6Impvam9hcmllZiIsImNvbXBhbnlfaWQiOiIxMzAiLCJ1c2VyX2lkIjoiMTIwIn0.w5-kcCWmvsGNJTZpRPiWmQ7TpEwgu_hQv-GAUpqUjPA"], ["LIMIT", 1]]
+Started GET "/api/v1/document_service/index" for ::1 at 2020-12-09 04:24:20 +0700
+  [1m[36mAuth Load (0.2ms)[0m  [1m[34mSELECT  "authentications".* FROM "authentications" WHERE "authentications"."token" = ? ORDER BY "authentications"."id" DESC LIMIT ?[0m  [["token", "eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJKb2pvbm9taWMiLCJpYXQiOjE2MDY2OTYyOTYsImV4cCI6MTYzODIzMjIsas5NiwiYXVkIjoiam9qb25vbWljLmNvbSIsInN1YiI6Impvam9hcmllZiIsImNvbXBhbnlfaWQiOiIxMzAiLCJ1c2VyX2lkIjoiMTIwIn0.w5-kcCWmvsGNJTZpRPiWmQ7TpEwgu_hQv-GAUpqUjPA"], ["LIMIT", 1]]
+Started GET "/api/v1/document_service/index" for ::1 at 2020-12-09 04:24:33 +0700
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mAuth Load (0.2ms)[0m  [1m[34mSELECT  "authentications".* FROM "authentications" WHERE "authentications"."token" = ? ORDER BY "authentications"."id" DESC LIMIT ?[0m  [["token", "eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJKb2pvbm9taWMiLCJpYXQiOjE2MDY2OTYyOTYsImV4cCI6MTYzODIzMjIsas5NiwiYXVkIjoiam9qb25vbWljLmNvbSIsInN1YiI6Impvam9hcmllZiIsImNvbXBhbnlfaWQiOiIxMzAiLCJ1c2VyX2lkIjoiMTIwIn0.w5-kcCWmvsGNJTZpRPiWmQ7TpEwgu_hQv-GAUpqUjPA"], ["LIMIT", 1]]
+Started GET "/api/v1/document_service/index" for ::1 at 2020-12-09 04:26:44 +0700
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mAuth Load (0.2ms)[0m  [1m[34mSELECT  "authentications".* FROM "authentications" WHERE "authentications"."token" = ? ORDER BY "authentications"."id" DESC LIMIT ?[0m  [["token", "eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJKb2pvbm9taWMiLCJpYXQiOjE2MDY2OTYyOTYsImV4cCI6MTYzODIzMjIsas5NiwiYXVkIjoiam9qb25vbWljLmNvbSIsInN1YiI6Impvam9hcmllZiIsImNvbXBhbnlfaWQiOiIxMzAiLCJ1c2VyX2lkIjoiMTIwIn0.w5-kcCWmvsGNJTZpRPiWmQ7TpEwgu_hQv-GAUpqUjPA"], ["LIMIT", 1]]
+Started GET "/api/v1/document_service/index" for ::1 at 2020-12-09 04:26:49 +0700
+  [1m[36mAuth Load (0.2ms)[0m  [1m[34mSELECT  "authentications".* FROM "authentications" WHERE "authentications"."token" = ? ORDER BY "authentications"."id" DESC LIMIT ?[0m  [["token", "eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJKb2pvbm9taWMiLCJpYXQiOjE2MDY2OTYyOTYsImV4cCI6MTYzODIzMjIsas5NiwiYXVkIjoiam9qb25vbWljLmNvbSIsInN1YiI6Impvam9hcmllZiIsImNvbXBhbnlfaWQiOiIxMzAiLCJ1c2VyX2lkIjoiMTIwIn0.w5-kcCWmvsGNJTZpRPiWmQ7TpEwgu_hQv-GAUpqUjPA"], ["LIMIT", 1]]
+Started GET "/api/v1/document_service/index" for ::1 at 2020-12-09 04:27:59 +0700
+  
+SyntaxError (/home/davidleonardopn/research/api-jojonomic/app/controllers/api/v1/document_service.rb:14: syntax error, unexpected '}', expecting =>
+...       error!({"Invalid token"}, 401)
+...                              ^
+/home/davidleonardopn/research/api-jojonomic/app/controllers/api/v1/document_service.rb:24: syntax error, unexpected `end', expecting '}'
+  end
+  ^~~
+):
+  
+app/controllers/api/v1/document_service.rb:14: syntax error, unexpected '}', expecting =>
+app/controllers/api/v1/document_service.rb:24: syntax error, unexpected `end', expecting '}'
+app/controllers/api/v1/base.rb:5:in `<class:Base>'
+app/controllers/api/v1/base.rb:3:in `<module:V1>'
+app/controllers/api/v1/base.rb:2:in `<module:API>'
+app/controllers/api/v1/base.rb:1:in `<top (required)>'
+app/controllers/api/base.rb:4:in `<class:Base>'
+app/controllers/api/base.rb:2:in `<module:API>'
+app/controllers/api/base.rb:1:in `<top (required)>'
+config/routes.rb:3:in `block in <top (required)>'
+config/routes.rb:1:in `<top (required)>'
+Started GET "/api/v1/document_service/index" for ::1 at 2020-12-09 04:29:05 +0700
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mAuth Load (0.2ms)[0m  [1m[34mSELECT  "authentications".* FROM "authentications" WHERE "authentications"."token" = ? ORDER BY "authentications"."id" DESC LIMIT ?[0m  [["token", "eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJKb2pvbm9taWMiLCJpYXQiOjE2MDY2OTYyOTYsImV4cCI6MTYzODIzMjIsas5NiwiYXVkIjoiam9qb25vbWljLmNvbSIsInN1YiI6Impvam9hcmllZiIsImNvbXBhbnlfaWQiOiIxMzAiLCJ1c2VyX2lkIjoiMTIwIn0.w5-kcCWmvsGNJTZpRPiWmQ7TpEwgu_hQv-GAUpqUjPA"], ["LIMIT", 1]]
+Started GET "/api/v1/document_service/index" for ::1 at 2020-12-09 04:29:53 +0700
+  [1m[35m (0.3ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mAuth Load (0.2ms)[0m  [1m[34mSELECT  "authentications".* FROM "authentications" WHERE "authentications"."token" = ? ORDER BY "authentications"."id" DESC LIMIT ?[0m  [["token", "eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJKb2pvbm9taWMiLCJpYXQiOjE2MDY2OTYyOTYsImV4cCI6MTYzODIzMjIsas5NiwiYXVkIjoiam9qb25vbWljLmNvbSIsInN1YiI6Impvam9hcmllZiIsImNvbXBhbnlfaWQiOiIxMzAiLCJ1c2VyX2lkIjoiMTIwIn0.w5-kcCWmvsGNJTZpRPiWmQ7TpEwgu_hQv-GAUpqUjPA"], ["LIMIT", 1]]
+Started GET "/api/v1/document_service/index" for ::1 at 2020-12-09 04:30:11 +0700
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mAuth Load (0.2ms)[0m  [1m[34mSELECT  "authentications".* FROM "authentications" WHERE "authentications"."token" = ? ORDER BY "authentications"."id" DESC LIMIT ?[0m  [["token", "eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJKb2pvbm9taWMiLCJpYXQiOjE2MDY2OTYyOTYsImV4cCI6MTYzODIzMjIsas5NiwiYXVkIjoiam9qb25vbWljLmNvbSIsInN1YiI6Impvam9hcmllZiIsImNvbXBhbnlfaWQiOiIxMzAiLCJ1c2VyX2lkIjoiMTIwIn0.w5-kcCWmvsGNJTZpRPiWmQ7TpEwgu_hQv-GAUpqUjPA"], ["LIMIT", 1]]
+Started GET "/api/v1/document_service/index" for ::1 at 2020-12-09 04:31:40 +0700
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mAuth Load (0.2ms)[0m  [1m[34mSELECT  "authentications".* FROM "authentications" WHERE "authentications"."token" = ? ORDER BY "authentications"."id" DESC LIMIT ?[0m  [["token", "eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJKb2pvbm9taWMiLCJpYXQiOjE2MDY2OTYyOTYsImV4cCI6MTYzODIzMjIsas5NiwiYXVkIjoiam9qb25vbWljLmNvbSIsInN1YiI6Impvam9hcmllZiIsImNvbXBhbnlfaWQiOiIxMzAiLCJ1c2VyX2lkIjoiMTIwIn0.w5-kcCWmvsGNJTZpRPiWmQ7TpEwgu_hQv-GAUpqUjPA"], ["LIMIT", 1]]
+Started GET "/api/v1/document_service/index" for ::1 at 2020-12-09 04:36:24 +0700
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mAuth Load (0.1ms)[0m  [1m[34mSELECT  "authentications".* FROM "authentications" WHERE "authentications"."token" = ? ORDER BY "authentications"."id" DESC LIMIT ?[0m  [["token", "eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJKb2pvbm9taWMiLCJpYXQiOjE2MDY2OTYyOTYsImV4cCI6MTYzODIzMjIsas5NiwiYXVkIjoiam9qb25vbWljLmNvbSIsInN1YiI6Impvam9hcmllZiIsImNvbXBhbnlfaWQiOiIxMzAiLCJ1c2VyX2lkIjoiMTIwIn0.w5-kcCWmvsGNJTZpRPiWmQ7TpEwgu_hQv-GAUpqUjPA"], ["LIMIT", 1]]
+Started GET "/api/v1/document_service/index" for ::1 at 2020-12-09 04:36:51 +0700
+Started GET "/api/auth" for ::1 at 2020-12-09 04:37:01 +0700
+  [1m[36mAuth Load (0.1ms)[0m  [1m[34mSELECT  "authentications".* FROM "authentications" WHERE "authentications"."token" = ? ORDER BY "authentications"."id" DESC LIMIT ?[0m  [["token", "eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJKb2pvbm9taWMiLCJpYXQiOjE2MDY2OTYyOTYsImV4cCI6MTYzODIzMjIsas5NiwiYXVkIjoiam9qb25vbWljLmNvbSIsInN1YiI6Impvam9hcmllZiIsImNvbXBhbnlfaWQiOiIxMzAiLCJ1c2VyX2lkIjoiMTIwIn0.w5-kcCWmvsGNJTZpRPiWmQ7TpEwgu_hQv-GAUpqUjPA"], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (0.4ms)[0m  [1m[32mINSERT INTO "authentications" ("token", "expired_at", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["token", "eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJKb2pvbm9taWMiLCJpYXQiOjE2MDY2OTYyOTYsImV4cCI6MTYzODIzMjI5NiwiYXVkIjoiam9qb25vbWljLmNvbSIsInN1YiI6Impvam9hcmllZiIsImNvbXBhbnlfaWQiOiIxMzAiLCJ1c2VyX2lkIjoiMTIwIn0.w5-kcCWmvsGNJTZpRPiWmQ7TpEwgu_hQv-GAUpqUjPA"], ["expired_at", "2020-12-09 06:37:01 +0700"], ["created_at", "2020-12-08 21:37:01.928429"], ["updated_at", "2020-12-08 21:37:01.928429"]]
+  [1m[35m (2.2ms)[0m  [1m[36mcommit transaction[0m
+Started GET "/api/v1/document_service/index" for ::1 at 2020-12-09 04:37:14 +0700
+  [1m[36mAuth Load (0.3ms)[0m  [1m[34mSELECT  "authentications".* FROM "authentications" WHERE "authentications"."token" = ? ORDER BY "authentications"."id" DESC LIMIT ?[0m  [["token", "eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJKb2pvbm9taWMiLCJpYXQiOjE2MDY2OTYyOTYsImV4cCI6MTYzODIzMjI5NiwiYXVkIjoiam9qb25vbWljLmNvbSIsInN1YiI6Impvam9hcmllZiIsImNvbXBhbnlfaWQiOiIxMzAiLCJ1c2VyX2lkIjoiMTIwIn0.w5-kcCWmvsGNJTZpRPiWmQ7TpEwgu_hQv-GAUpqUjPA"], ["LIMIT", 1]]
+Started GET "/api/v1/document_service/index" for ::1 at 2020-12-09 04:37:32 +0700
+  [1m[36mAuth Load (0.2ms)[0m  [1m[34mSELECT  "authentications".* FROM "authentications" WHERE "authentications"."token" = ? ORDER BY "authentications"."id" DESC LIMIT ?[0m  [["token", "eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJKb2pvbm9taWMiLCJpYXQiOjE2MDY2OTYyOTYsImV4cCI6MTYzODIzMjI5NiwiYXVkIjoiam9qb25vbWljLmNvbSIsInN1YiI6Impvam9hcmllZiIsImNvbXBhbnlfaWQiOiIxMzAiLCJ1c2VyX2lkIjoiMTIwIn0.w5-kcCWmvsGNJTZpRPiWmQ7TpEwgu_hQv-GAUpqUjPA"], ["LIMIT", 1]]
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Migrating to CreateDocumentService (20201208182604)
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35m (0.4ms)[0m  [1m[35mDROP TABLE "document_services"[0m
+  [1m[35mSQL (0.2ms)[0m  [1m[31mDELETE FROM "schema_migrations" WHERE "schema_migrations"."version" = ?[0m  [["version", "20201208182604"]]
+  [1m[35m (29.1ms)[0m  [1m[36mcommit transaction[0m
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Migrating to CreateDocumentService (20201208182604)
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[35m (0.4ms)[0m  [1m[35mCREATE TABLE "document_services" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "name" varchar, "type_item" integer DEFAULT 0, "is_public" boolean DEFAULT 't', "share" varchar, "timestamp" varchar)[0m
+  [1m[35mSQL (0.2ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES (?)[0m  [["version", "20201208182604"]]
+  [1m[35m (1.7ms)[0m  [1m[36mcommit transaction[0m
+  [1m[36mActiveRecord::InternalMetadata Load (0.2ms)[0m  [1m[34mSELECT  "ar_internal_metadata".* FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = ? LIMIT ?[0m  [["key", "environment"], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  [1m[36mcommit transaction[0m
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Started GET "/api/v1/document_service/index" for ::1 at 2020-12-09 04:46:47 +0700
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mAuth Load (0.2ms)[0m  [1m[34mSELECT  "authentications".* FROM "authentications" WHERE "authentications"."token" = ? ORDER BY "authentications"."id" DESC LIMIT ?[0m  [["token", "eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJKb2pvbm9taWMiLCJpYXQiOjE2MDY2OTYyOTYsImV4cCI6MTYzODIzMjI5NiwiYXVkIjoiam9qb25vbWljLmNvbSIsInN1YiI6Impvam9hcmllZiIsImNvbXBhbnlfaWQiOiIxMzAiLCJ1c2VyX2lkIjoiMTIwIn0.w5-kcCWmvsGNJTZpRPiWmQ7TpEwgu_hQv-GAUpqUjPA"], ["LIMIT", 1]]
+  
+NoMethodError (undefined method `where' for API::V1::DocumentService:Class
+Did you mean?  when):
+  
+app/controllers/api/v1/document_service.rb:22:in `block (2 levels) in <class:DocumentService>'
+Started GET "/api/v1/document_service/index" for ::1 at 2020-12-09 04:48:00 +0700
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mAuth Load (0.2ms)[0m  [1m[34mSELECT  "authentications".* FROM "authentications" WHERE "authentications"."token" = ? ORDER BY "authentications"."id" DESC LIMIT ?[0m  [["token", "eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJKb2pvbm9taWMiLCJpYXQiOjE2MDY2OTYyOTYsImV4cCI6MTYzODIzMjI5NiwiYXVkIjoiam9qb25vbWljLmNvbSIsInN1YiI6Impvam9hcmllZiIsImNvbXBhbnlfaWQiOiIxMzAiLCJ1c2VyX2lkIjoiMTIwIn0.w5-kcCWmvsGNJTZpRPiWmQ7TpEwgu_hQv-GAUpqUjPA"], ["LIMIT", 1]]
+Started GET "/api/v1/document_service/index" for ::1 at 2020-12-09 04:50:28 +0700
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mAuth Load (0.3ms)[0m  [1m[34mSELECT  "authentications".* FROM "authentications" WHERE "authentications"."token" = ? ORDER BY "authentications"."id" DESC LIMIT ?[0m  [["token", "eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJKb2pvbm9taWMiLCJpYXQiOjE2MDY2OTYyOTYsImV4cCI6MTYzODIzMjI5NiwiYXVkIjoiam9qb25vbWljLmNvbSIsInN1YiI6Impvam9hcmllZiIsImNvbXBhbnlfaWQiOiIxMzAiLCJ1c2VyX2lkIjoiMTIwIn0.w5-kcCWmvsGNJTZpRPiWmQ7TpEwgu_hQv-GAUpqUjPA"], ["LIMIT", 1]]
+  [1m[36mDsr Load (0.2ms)[0m  [1m[34mSELECT "document_services".* FROM "document_services" WHERE "document_services"."type_item" = ?[0m  [["type_item", 0]]
+  [1m[35m (0.3ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (0.5ms)[0m  [1m[32mINSERT INTO "document_services" ("name") VALUES (?)[0m  [["name", "haha"]]
+  [1m[35m (2.6ms)[0m  [1m[36mcommit transaction[0m
+Started GET "/api/v1/document_service/index" for ::1 at 2020-12-09 04:51:20 +0700
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mAuth Load (0.2ms)[0m  [1m[34mSELECT  "authentications".* FROM "authentications" WHERE "authentications"."token" = ? ORDER BY "authentications"."id" DESC LIMIT ?[0m  [["token", "eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJKb2pvbm9taWMiLCJpYXQiOjE2MDY2OTYyOTYsImV4cCI6MTYzODIzMjI5NiwiYXVkIjoiam9qb25vbWljLmNvbSIsInN1YiI6Impvam9hcmllZiIsImNvbXBhbnlfaWQiOiIxMzAiLCJ1c2VyX2lkIjoiMTIwIn0.w5-kcCWmvsGNJTZpRPiWmQ7TpEwgu_hQv-GAUpqUjPA"], ["LIMIT", 1]]
+  [1m[36mDsr Load (0.1ms)[0m  [1m[34mSELECT "document_services".* FROM "document_services" WHERE "document_services"."type_item" = ?[0m  [["type_item", 0]]
+Started GET "/api/v1/document_service/index" for ::1 at 2020-12-09 04:53:21 +0700
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mAuth Load (0.3ms)[0m  [1m[34mSELECT  "authentications".* FROM "authentications" WHERE "authentications"."token" = ? ORDER BY "authentications"."id" DESC LIMIT ?[0m  [["token", "eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJKb2pvbm9taWMiLCJpYXQiOjE2MDY2OTYyOTYsImV4cCI6MTYzODIzMjI5NiwiYXVkIjoiam9qb25vbWljLmNvbSIsInN1YiI6Impvam9hcmllZiIsImNvbXBhbnlfaWQiOiIxMzAiLCJ1c2VyX2lkIjoiMTIwIn0.w5-kcCWmvsGNJTZpRPiWmQ7TpEwgu_hQv-GAUpqUjPA"], ["LIMIT", 1]]
+  [1m[36mDsr Load (0.2ms)[0m  [1m[34mSELECT "document_services".* FROM "document_services" WHERE "document_services"."type_item" = ?[0m  [["type_item", 0]]
+Started GET "/api/v1/document_service/index" for ::1 at 2020-12-09 05:06:43 +0700
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mAuth Load (0.2ms)[0m  [1m[34mSELECT  "authentications".* FROM "authentications" WHERE "authentications"."token" = ? ORDER BY "authentications"."id" DESC LIMIT ?[0m  [["token", "eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJKb2pvbm9taWMiLCJpYXQiOjE2MDY2OTYyOTYsImV4cCI6MTYzODIzMjI5NiwiYXVkIjoiam9qb25vbWljLmNvbSIsInN1YiI6Impvam9hcmllZiIsImNvbXBhbnlfaWQiOiIxMzAiLCJ1c2VyX2lkIjoiMTIwIn0.w5-kcCWmvsGNJTZpRPiWmQ7TpEwgu_hQv-GAUpqUjPA"], ["LIMIT", 1]]
+  [1m[36mDsr Load (0.2ms)[0m  [1m[34mSELECT "document_services".* FROM "document_services" WHERE "document_services"."type_item" = ?[0m  [["type_item", 0]]
+Started GET "/api/v1/document_service/index" for ::1 at 2020-12-09 05:10:01 +0700
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  
+ActiveRecord::PendingMigrationError (
+
+Migrations are pending. To resolve this issue, run:
+
+        bin/rails db:migrate RAILS_ENV=development
+
+):
+  
+activerecord (5.1.7) lib/active_record/migration.rb:576:in `check_pending!'
+activerecord (5.1.7) lib/active_record/migration.rb:553:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/callbacks.rb:26:in `block in call'
+activesupport (5.1.7) lib/active_support/callbacks.rb:97:in `run_callbacks'
+actionpack (5.1.7) lib/action_dispatch/middleware/callbacks.rb:24:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/debug_exceptions.rb:59:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.7) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.7) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.7) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.2) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.2.3) lib/rack/method_override.rb:24:in `call'
+rack (2.2.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.7) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.2.3) lib/rack/sendfile.rb:110:in `call'
+railties (5.1.7) lib/rails/engine.rb:522:in `call'
+puma (3.12.6) lib/puma/configuration.rb:227:in `call'
+puma (3.12.6) lib/puma/server.rb:706:in `handle_request'
+puma (3.12.6) lib/puma/server.rb:476:in `process_client'
+puma (3.12.6) lib/puma/server.rb:334:in `block in run'
+puma (3.12.6) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Migrating to CreateTableUser (20201208220651)
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Migrating to CreateTableUser (20201208220651)
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[35m (0.4ms)[0m  [1m[35mCREATE TABLE "users" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "email" varchar, "password_digest" varchar, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL)[0m
+  [1m[35mSQL (0.2ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES (?)[0m  [["version", "20201208220651"]]
+  [1m[35m (2.1ms)[0m  [1m[36mcommit transaction[0m
+  [1m[36mActiveRecord::InternalMetadata Load (0.2ms)[0m  [1m[34mSELECT  "ar_internal_metadata".* FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = ? LIMIT ?[0m  [["key", "environment"], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mcommit transaction[0m
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mActiveRecord::InternalMetadata Load (0.2ms)[0m  [1m[34mSELECT  "ar_internal_metadata".* FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = ? LIMIT ?[0m  [["key", "environment"], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mcommit transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Migrating to CreateTableUser (20201208220651)
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35m (0.3ms)[0m  [1m[35mDROP TABLE "users"[0m
+  [1m[35mSQL (0.2ms)[0m  [1m[31mDELETE FROM "schema_migrations" WHERE "schema_migrations"."version" = ?[0m  [["version", "20201208220651"]]
+  [1m[35m (1.8ms)[0m  [1m[36mcommit transaction[0m
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Migrating to CreateTableUser (20201208220651)
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[35m (0.4ms)[0m  [1m[35mCREATE TABLE "users" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "email" varchar, "password_digest" varchar, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL)[0m
+  [1m[35mSQL (0.2ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES (?)[0m  [["version", "20201208220651"]]
+  [1m[35m (1.9ms)[0m  [1m[36mcommit transaction[0m
+  [1m[36mActiveRecord::InternalMetadata Load (0.2ms)[0m  [1m[34mSELECT  "ar_internal_metadata".* FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = ? LIMIT ?[0m  [["key", "environment"], ["LIMIT", 1]]
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mcommit transaction[0m
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "ar_internal_metadata"."value" FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = ?[0m  [["key", "environment"]]
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "ar_internal_metadata"."value" FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = ?[0m  [["key", "environment"]]
+  [1m[35m (0.0ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "ar_internal_metadata"."value" FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = ?[0m  [["key", "environment"]]
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[35m (2.1ms)[0m  [1m[35mCREATE TABLE "schema_migrations" ("version" varchar NOT NULL PRIMARY KEY)[0m
+  [1m[35m (2.6ms)[0m  [1m[35mCREATE TABLE "ar_internal_metadata" ("key" varchar NOT NULL PRIMARY KEY, "value" varchar, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL)[0m
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Migrating to CreateDocumentService (20201208182604)
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35m (0.4ms)[0m  [1m[35mCREATE TABLE "document_services" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "name" varchar, "type_item" integer DEFAULT 0, "folder_id" varchar, "content" text, "is_public" boolean DEFAULT 't', "owner_id" varchar, "share" varchar, "timestamp" text, "company_id" varchar)[0m
+  [1m[35mSQL (0.2ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES (?)[0m  [["version", "20201208182604"]]
+  [1m[35m (1.9ms)[0m  [1m[36mcommit transaction[0m
+Migrating to CreateAuthentications (20201208192423)
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35m (0.3ms)[0m  [1m[35mCREATE TABLE "authentications" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "token" varchar, "expired_at" varchar, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL)[0m
+  [1m[35mSQL (0.2ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES (?)[0m  [["version", "20201208192423"]]
+  [1m[35m (2.6ms)[0m  [1m[36mcommit transaction[0m
+  [1m[36mActiveRecord::InternalMetadata Load (0.2ms)[0m  [1m[34mSELECT  "ar_internal_metadata".* FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = ? LIMIT ?[0m  [["key", "environment"], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (0.4ms)[0m  [1m[32mINSERT INTO "ar_internal_metadata" ("key", "value", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["key", "environment"], ["value", "development"], ["created_at", "2020-12-08 22:43:27.487993"], ["updated_at", "2020-12-08 22:43:27.487993"]]
+  [1m[35m (3.4ms)[0m  [1m[36mcommit transaction[0m
+  [1m[35m (0.3ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.3ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (0.5ms)[0m  [1m[32mINSERT INTO "document_services" ("id", "name") VALUES (?, ?)[0m  [["id", 1], ["name", "haha"]]
+  [1m[35m (2.2ms)[0m  [1m[36mcommit transaction[0m
+  [1m[36mDsr Load (0.7ms)[0m  [1m[34mSELECT  "document_services".* FROM "document_services" WHERE "document_services"."id" = ? AND "document_services"."name" = ? LIMIT ?[0m  [["id", 1], ["name", "haha"], ["LIMIT", 1]]
+  [1m[36mDsr Load (0.7ms)[0m  [1m[34mSELECT  "document_services".* FROM "document_services" ORDER BY "document_services"."id" ASC LIMIT ?[0m  [["LIMIT", 1]]
+  [1m[36mDsr Load (0.2ms)[0m  [1m[34mSELECT  "document_services".* FROM "document_services" WHERE "document_services"."id" = ? AND "document_services"."name" = ? LIMIT ?[0m  [["id", 1], ["name", "haha"], ["LIMIT", 1]]
+  [1m[36mDsr Load (0.3ms)[0m  [1m[34mSELECT  "document_services".* FROM "document_services" WHERE "document_services"."id" = ? AND "document_services"."name" = ? LIMIT ?[0m  [["id", 2], ["name", "haha"], ["LIMIT", 1]]
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (1.1ms)[0m  [1m[32mINSERT INTO "document_services" ("id", "name") VALUES (?, ?)[0m  [["id", 2], ["name", "haha"]]
+  [1m[35m (3.6ms)[0m  [1m[36mcommit transaction[0m
+  [1m[36mDsr Load (0.7ms)[0m  [1m[34mSELECT  "document_services".* FROM "document_services" LIMIT ?[0m  [["LIMIT", 11]]
+Started POST "/api/v1/document_service/folder" for ::1 at 2020-12-09 05:52:35 +0700
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mAuth Load (0.2ms)[0m  [1m[34mSELECT  "authentications".* FROM "authentications" WHERE "authentications"."token" = ? ORDER BY "authentications"."id" DESC LIMIT ?[0m  [["token", "eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJKb2pvbm9taWMiLCJpYXQiOjE2MDY2OTYyOTYsImV4cCI6MTYzODIzMjI5NiwiYXVkIjoiam9qb25vbWljLmNvbSIsInN1YiI6Impvam9hcmllZiIsImNvbXBhbnlfaWQiOiIxMzAiLCJ1c2VyX2lkIjoiMTIwIn0.w5-kcCWmvsGNJTZpRPiWmQ7TpEwgu_hQv-GAUpqUjPA"], ["LIMIT", 1]]
+Started GET "/api/auth" for ::1 at 2020-12-09 05:52:47 +0700
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (0.3ms)[0m  [1m[32mINSERT INTO "authentications" ("token", "expired_at", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["token", "eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJKb2pvbm9taWMiLCJpYXQiOjE2MDY2OTYyOTYsImV4cCI6MTYzODIzMjI5NiwiYXVkIjoiam9qb25vbWljLmNvbSIsInN1YiI6Impvam9hcmllZiIsImNvbXBhbnlfaWQiOiIxMzAiLCJ1c2VyX2lkIjoiMTIwIn0.w5-kcCWmvsGNJTZpRPiWmQ7TpEwgu_hQv-GAUpqUjPA"], ["expired_at", "2020-12-09 07:52:47 +0700"], ["created_at", "2020-12-08 22:52:47.795246"], ["updated_at", "2020-12-08 22:52:47.795246"]]
+  [1m[35m (1.7ms)[0m  [1m[36mcommit transaction[0m
+Started POST "/api/v1/document_service/folder" for ::1 at 2020-12-09 05:53:01 +0700
+  [1m[36mAuth Load (0.3ms)[0m  [1m[34mSELECT  "authentications".* FROM "authentications" WHERE "authentications"."token" = ? ORDER BY "authentications"."id" DESC LIMIT ?[0m  [["token", "eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJKb2pvbm9taWMiLCJpYXQiOjE2MDY2OTYyOTYsImV4cCI6MTYzODIzMjI5NiwiYXVkIjoiam9qb25vbWljLmNvbSIsInN1YiI6Impvam9hcmllZiIsImNvbXBhbnlfaWQiOiIxMzAiLCJ1c2VyX2lkIjoiMTIwIn0.w5-kcCWmvsGNJTZpRPiWmQ7TpEwgu_hQv-GAUpqUjPA"], ["LIMIT", 1]]
+Started POST "/api/v1/document_service/folder" for ::1 at 2020-12-09 05:53:39 +0700
+  [1m[36mAuth Load (0.3ms)[0m  [1m[34mSELECT  "authentications".* FROM "authentications" WHERE "authentications"."token" = ? ORDER BY "authentications"."id" DESC LIMIT ?[0m  [["token", "eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJKb2pvbm9taWMiLCJpYXQiOjE2MDY2OTYyOTYsImV4cCI6MTYzODIzMjI5NiwiYXVkIjoiam9qb25vbWljLmNvbSIsInN1YiI6Impvam9hcmllZiIsImNvbXBhbnlfaWQiOiIxMzAiLCJ1c2VyX2lkIjoiMTIwIn0.w5-kcCWmvsGNJTZpRPiWmQ7TpEwgu_hQv-GAUpqUjPA"], ["LIMIT", 1]]
+  [1m[36mDsr Load (0.4ms)[0m  [1m[34mSELECT  "document_services".* FROM "document_services" WHERE "document_services"."id" = ? AND "document_services"."name" = ? AND "document_services"."timestamp" = ? AND "document_services"."owner_id" = ? AND "document_services"."company_id" = ? AND "document_services"."tyoe_item" = ? LIMIT ?[0m  [["id", 121221], ["name", "hoho"], ["timestamp", "12121212"], ["owner_id", "120"], ["company_id", "130"], ["tyoe_item", 0], ["LIMIT", 1]]
+  
+ActiveRecord::StatementInvalid (SQLite3::SQLException: no such column: document_services.tyoe_item: SELECT  "document_services".* FROM "document_services" WHERE "document_services"."id" = ? AND "document_services"."name" = ? AND "document_services"."timestamp" = ? AND "document_services"."owner_id" = ? AND "document_services"."company_id" = ? AND "document_services"."tyoe_item" = ? LIMIT ?):
+  
+app/controllers/api/v1/document_service.rb:34:in `block (2 levels) in <class:DocumentService>'
+Started POST "/api/v1/document_service/folder" for ::1 at 2020-12-09 05:53:55 +0700
+  [1m[36mAuth Load (0.2ms)[0m  [1m[34mSELECT  "authentications".* FROM "authentications" WHERE "authentications"."token" = ? ORDER BY "authentications"."id" DESC LIMIT ?[0m  [["token", "eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJKb2pvbm9taWMiLCJpYXQiOjE2MDY2OTYyOTYsImV4cCI6MTYzODIzMjI5NiwiYXVkIjoiam9qb25vbWljLmNvbSIsInN1YiI6Impvam9hcmllZiIsImNvbXBhbnlfaWQiOiIxMzAiLCJ1c2VyX2lkIjoiMTIwIn0.w5-kcCWmvsGNJTZpRPiWmQ7TpEwgu_hQv-GAUpqUjPA"], ["LIMIT", 1]]
+  [1m[36mDsr Load (0.3ms)[0m  [1m[34mSELECT  "document_services".* FROM "document_services" WHERE "document_services"."id" = ? AND "document_services"."name" = ? AND "document_services"."timestamp" = ? AND "document_services"."owner_id" = ? AND "document_services"."company_id" = ? AND "document_services"."type_item" = ? LIMIT ?[0m  [["id", 121221], ["name", "hoho"], ["timestamp", "12121212"], ["owner_id", "120"], ["company_id", "130"], ["type_item", 0], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (0.3ms)[0m  [1m[32mINSERT INTO "document_services" ("id", "name", "owner_id", "timestamp", "company_id") VALUES (?, ?, ?, ?, ?)[0m  [["id", 121221], ["name", "hoho"], ["owner_id", "120"], ["timestamp", "12121212"], ["company_id", "130"]]
+  [1m[35m (1.6ms)[0m  [1m[36mcommit transaction[0m
+Started POST "/api/v1/document_service/folder" for ::1 at 2020-12-09 05:57:28 +0700
+  [1m[36mAuth Load (0.2ms)[0m  [1m[34mSELECT  "authentications".* FROM "authentications" WHERE "authentications"."token" = ? ORDER BY "authentications"."id" DESC LIMIT ?[0m  [["token", "eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJKb2pvbm9taWMiLCJpYXQiOjE2MDY2OTYyOTYsImV4cCI6MTYzODIzMjI5NiwiYXVkIjoiam9qb25vbWljLmNvbSIsInN1YiI6Impvam9hcmllZiIsImNvbXBhbnlfaWQiOiIxMzAiLCJ1c2VyX2lkIjoiMTIwIn0.w5-kcCWmvsGNJTZpRPiWmQ7TpEwgu_hQv-GAUpqUjPA"], ["LIMIT", 1]]
+  [1m[36mDsr Load (0.3ms)[0m  [1m[34mSELECT  "document_services".* FROM "document_services" WHERE "document_services"."id" = ? AND "document_services"."name" = ? AND "document_services"."timestamp" = ? AND "document_services"."owner_id" = ? AND "document_services"."company_id" = ? AND "document_services"."type_item" = ? LIMIT ?[0m  [["id", 1212212121], ["name", "hoho"], ["timestamp", "12121212"], ["owner_id", "120"], ["company_id", "130"], ["type_item", 0], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (0.4ms)[0m  [1m[32mINSERT INTO "document_services" ("id", "name", "owner_id", "timestamp", "company_id") VALUES (?, ?, ?, ?, ?)[0m  [["id", 1212212121], ["name", "hoho"], ["owner_id", "120"], ["timestamp", "12121212"], ["company_id", "130"]]
+  [1m[35m (1.6ms)[0m  [1m[36mcommit transaction[0m
+Started POST "/api/v1/document_service/folder" for ::1 at 2020-12-09 06:00:05 +0700
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mAuth Load (0.1ms)[0m  [1m[34mSELECT  "authentications".* FROM "authentications" WHERE "authentications"."token" = ? ORDER BY "authentications"."id" DESC LIMIT ?[0m  [["token", "eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJKb2pvbm9taWMiLCJpYXQiOjE2MDY2OTYyOTYsImV4cCI6MTYzODIzMjI5NiwiYXVkIjoiam9qb25vbWljLmNvbSIsInN1YiI6Impvam9hcmllZiIsImNvbXBhbnlfaWQiOiIxMzAiLCJ1c2VyX2lkIjoiMTIwIn0.w5-kcCWmvsGNJTZpRPiWmQ7TpEwgu_hQv-GAUpqUjPA"], ["LIMIT", 1]]
+  [1m[36mDsr Load (0.3ms)[0m  [1m[34mSELECT  "document_services".* FROM "document_services" WHERE "document_services"."id" = ? AND "document_services"."name" = ? AND "document_services"."timestamp" = ? AND "document_services"."owner_id" = ? AND "document_services"."company_id" = ? AND "document_services"."type_item" = ? LIMIT ?[0m  [["id", 1212212121], ["name", "hoho"], ["timestamp", "12121212"], ["owner_id", "120"], ["company_id", "130"], ["type_item", 0], ["LIMIT", 1]]
+Started GET "/api/v1/document_service/index" for ::1 at 2020-12-09 06:03:06 +0700
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mAuth Load (0.2ms)[0m  [1m[34mSELECT  "authentications".* FROM "authentications" WHERE "authentications"."token" = ? ORDER BY "authentications"."id" DESC LIMIT ?[0m  [["token", "eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJKb2pvbm9taWMiLCJpYXQiOjE2MDY2OTYyOTYsImV4cCI6MTYzODIzMjI5NiwiYXVkIjoiam9qb25vbWljLmNvbSIsInN1YiI6Impvam9hcmllZiIsImNvbXBhbnlfaWQiOiIxMzAiLCJ1c2VyX2lkIjoiMTIwIn0.w5-kcCWmvsGNJTZpRPiWmQ7TpEwgu_hQv-GAUpqUjPA"], ["LIMIT", 1]]
+  [1m[36mDsr Load (0.2ms)[0m  [1m[34mSELECT "document_services".* FROM "document_services" WHERE "document_services"."type_item" = ?[0m  [["type_item", 0]]
+Started DELETE "/api/v1/document_service/folder" for ::1 at 2020-12-09 06:03:23 +0700
+Started DELETE "/api/v1/document_service/folder" for ::1 at 2020-12-09 06:03:57 +0700
+  [1m[36mAuth Load (0.3ms)[0m  [1m[34mSELECT  "authentications".* FROM "authentications" WHERE "authentications"."token" = ? ORDER BY "authentications"."id" DESC LIMIT ?[0m  [["token", "eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJKb2pvbm9taWMiLCJpYXQiOjE2MDY2OTYyOTYsImV4cCI6MTYzODIzMjI5NiwiYXVkIjoiam9qb25vbWljLmNvbSIsInN1YiI6Impvam9hcmllZiIsImNvbXBhbnlfaWQiOiIxMzAiLCJ1c2VyX2lkIjoiMTIwIn0.w5-kcCWmvsGNJTZpRPiWmQ7TpEwgu_hQv-GAUpqUjPA"], ["LIMIT", 1]]
+Started DELETE "/api/v1/document_service/folder" for ::1 at 2020-12-09 06:04:28 +0700
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mAuth Load (0.1ms)[0m  [1m[34mSELECT  "authentications".* FROM "authentications" WHERE "authentications"."token" = ? ORDER BY "authentications"."id" DESC LIMIT ?[0m  [["token", "eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJKb2pvbm9taWMiLCJpYXQiOjE2MDY2OTYyOTYsImV4cCI6MTYzODIzMjI5NiwiYXVkIjoiam9qb25vbWljLmNvbSIsInN1YiI6Impvam9hcmllZiIsImNvbXBhbnlfaWQiOiIxMzAiLCJ1c2VyX2lkIjoiMTIwIn0.w5-kcCWmvsGNJTZpRPiWmQ7TpEwgu_hQv-GAUpqUjPA"], ["LIMIT", 1]]
+Started DELETE "/api/v1/document_service/folder" for ::1 at 2020-12-09 06:04:42 +0700
+  [1m[36mAuth Load (0.1ms)[0m  [1m[34mSELECT  "authentications".* FROM "authentications" WHERE "authentications"."token" = ? ORDER BY "authentications"."id" DESC LIMIT ?[0m  [["token", "eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJKb2pvbm9taWMiLCJpYXQiOjE2MDY2OTYyOTYsImV4cCI6MTYzODIzMjI5NiwiYXVkIjoiam9qb25vbWljLmNvbSIsInN1YiI6Impvam9hcmllZiIsImNvbXBhbnlfaWQiOiIxMzAiLCJ1c2VyX2lkIjoiMTIwIn0.w5-kcCWmvsGNJTZpRPiWmQ7TpEwgu_hQv-GAUpqUjPA"], ["LIMIT", 1]]
+  [1m[35mSQL (0.1ms)[0m  [1m[31mDELETE FROM "document_services" WHERE "document_services"."id" = ?[0m  [["id", nil]]
+Started POST "/api/v1/document_service/document" for ::1 at 2020-12-09 06:15:13 +0700
+Started POST "/api/v1/document_service/document" for ::1 at 2020-12-09 06:16:40 +0700
+  [1m[36mAuth Load (0.3ms)[0m  [1m[34mSELECT  "authentications".* FROM "authentications" WHERE "authentications"."token" = ? ORDER BY "authentications"."id" DESC LIMIT ?[0m  [["token", "eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJKb2pvbm9taWMiLCJpYXQiOjE2MDY2OTYyOTYsImV4cCI6MTYzODIzMjI5NiwiYXVkIjoiam9qb25vbWljLmNvbSIsInN1YiI6Impvam9hcmllZiIsImNvbXBhbnlfaWQiOiIxMzAiLCJ1c2VyX2lkIjoiMTIwIn0.w5-kcCWmvsGNJTZpRPiWmQ7TpEwgu_hQv-GAUpqUjPA"], ["LIMIT", 1]]
+Started POST "/api/v1/document_service/document" for ::1 at 2020-12-09 06:16:50 +0700
+  [1m[36mAuth Load (0.2ms)[0m  [1m[34mSELECT  "authentications".* FROM "authentications" WHERE "authentications"."token" = ? ORDER BY "authentications"."id" DESC LIMIT ?[0m  [["token", "eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJKb2pvbm9taWMiLCJpYXQiOjE2MDY2OTYyOTYsImV4cCI6MTYzODIzMjI5NiwiYXVkIjoiam9qb25vbWljLmNvbSIsInN1YiI6Impvam9hcmllZiIsImNvbXBhbnlfaWQiOiIxMzAiLCJ1c2VyX2lkIjoiMTIwIn0.w5-kcCWmvsGNJTZpRPiWmQ7TpEwgu_hQv-GAUpqUjPA"], ["LIMIT", 1]]
+  [1m[36mDsr Load (0.3ms)[0m  [1m[34mSELECT  "document_services".* FROM "document_services" WHERE "document_services"."id" = ? AND "document_services"."name" = ? LIMIT ?[0m  [["id", 82], ["name", "Document Job desc Tech"], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (0.9ms)[0m  [1m[32mINSERT INTO "document_services" ("id", "name", "type_item", "folder_id", "content", "owner_id", "share", "timestamp", "company_id") VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)[0m  [["id", 82], ["name", "Document Job desc Tech"], ["type_item", 1], ["folder_id", "82b07a6f-60cc-4403-8fd2-329ef0de0d3e"], ["content", "{\"blocks\"=>[{\"type\"=>\"paragraph\", \"text\"=>\"This is paragraph\"}]}"], ["owner_id", "120"], ["share", "[1, 23, 4232, 121]"], ["timestamp", "1605081795"], ["company_id", "130"]]
+  [1m[35m (4.7ms)[0m  [1m[36mcommit transaction[0m
+Started POST "/api/v1/document_service/document" for ::1 at 2020-12-09 06:17:34 +0700
+  [1m[36mAuth Load (0.2ms)[0m  [1m[34mSELECT  "authentications".* FROM "authentications" WHERE "authentications"."token" = ? ORDER BY "authentications"."id" DESC LIMIT ?[0m  [["token", "eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJKb2pvbm9taWMiLCJpYXQiOjE2MDY2OTYyOTYsImV4cCI6MTYzODIzMjI5NiwiYXVkIjoiam9qb25vbWljLmNvbSIsInN1YiI6Impvam9hcmllZiIsImNvbXBhbnlfaWQiOiIxMzAiLCJ1c2VyX2lkIjoiMTIwIn0.w5-kcCWmvsGNJTZpRPiWmQ7TpEwgu_hQv-GAUpqUjPA"], ["LIMIT", 1]]
+  [1m[36mDsr Load (0.1ms)[0m  [1m[34mSELECT  "document_services".* FROM "document_services" WHERE "document_services"."id" = ? AND "document_services"."name" = ? LIMIT ?[0m  [["id", 82], ["name", "Document Job desac Tech"], ["LIMIT", 1]]
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (0.5ms)[0m  [1m[32mINSERT INTO "document_services" ("id", "name", "type_item", "folder_id", "content", "owner_id", "share", "timestamp", "company_id") VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)[0m  [["id", 82], ["name", "Document Job desac Tech"], ["type_item", 1], ["folder_id", "82b07a6f-60cc-4403-8fd2-329ef0de0d3e"], ["content", "{\"blocks\"=>[{\"type\"=>\"paragraph\", \"text\"=>\"This is paragraph\"}]}"], ["owner_id", "120"], ["share", "[1, 23, 4232, 121]"], ["timestamp", "1605081795"], ["company_id", "130"]]
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+  
+ActiveRecord::RecordNotUnique (SQLite3::ConstraintException: UNIQUE constraint failed: document_services.id: INSERT INTO "document_services" ("id", "name", "type_item", "folder_id", "content", "owner_id", "share", "timestamp", "company_id") VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)):
+  
+app/controllers/api/v1/document_service.rb:65:in `block (2 levels) in <class:DocumentService>'
+Started POST "/api/v1/document_service/document" for ::1 at 2020-12-09 06:18:00 +0700
+  [1m[36mAuth Load (0.2ms)[0m  [1m[34mSELECT  "authentications".* FROM "authentications" WHERE "authentications"."token" = ? ORDER BY "authentications"."id" DESC LIMIT ?[0m  [["token", "eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJKb2pvbm9taWMiLCJpYXQiOjE2MDY2OTYyOTYsImV4cCI6MTYzODIzMjI5NiwiYXVkIjoiam9qb25vbWljLmNvbSIsInN1YiI6Impvam9hcmllZiIsImNvbXBhbnlfaWQiOiIxMzAiLCJ1c2VyX2lkIjoiMTIwIn0.w5-kcCWmvsGNJTZpRPiWmQ7TpEwgu_hQv-GAUpqUjPA"], ["LIMIT", 1]]
+  [1m[36mDsr Load (0.3ms)[0m  [1m[34mSELECT  "document_services".* FROM "document_services" WHERE "document_services"."id" = ? LIMIT ?[0m  [["id", 82], ["LIMIT", 1]]
+  [1m[35m (0.9ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (0.9ms)[0m  [1m[33mUPDATE "document_services" SET "name" = ? WHERE "document_services"."id" = ?[0m  [["name", "Document Job desac Tech"], ["id", 82]]
+  [1m[35m (1.9ms)[0m  [1m[36mcommit transaction[0m
+Started POST "/api/v1/document_service/document" for ::1 at 2020-12-09 06:18:14 +0700
+  [1m[36mAuth Load (0.2ms)[0m  [1m[34mSELECT  "authentications".* FROM "authentications" WHERE "authentications"."token" = ? ORDER BY "authentications"."id" DESC LIMIT ?[0m  [["token", "eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJKb2pvbm9taWMiLCJpYXQiOjE2MDY2OTYyOTYsImV4cCI6MTYzODIzMjI5NiwiYXVkIjoiam9qb25vbWljLmNvbSIsInN1YiI6Impvam9hcmllZiIsImNvbXBhbnlfaWQiOiIxMzAiLCJ1c2VyX2lkIjoiMTIwIn0.w5-kcCWmvsGNJTZpRPiWmQ7TpEwgu_hQv-GAUpqUjPA"], ["LIMIT", 1]]
+  [1m[36mDsr Load (0.2ms)[0m  [1m[34mSELECT  "document_services".* FROM "document_services" WHERE "document_services"."id" = ? LIMIT ?[0m  [["id", 84], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (0.4ms)[0m  [1m[32mINSERT INTO "document_services" ("id", "name", "type_item", "folder_id", "content", "owner_id", "share", "timestamp", "company_id") VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)[0m  [["id", 84], ["name", "Document Job desac Tech"], ["type_item", 1], ["folder_id", "82b07a6f-60cc-4403-8fd2-329ef0de0d3e"], ["content", "{\"blocks\"=>[{\"type\"=>\"paragraph\", \"text\"=>\"This is paragraph\"}]}"], ["owner_id", "120"], ["share", "[1, 23, 4232, 121]"], ["timestamp", "1605081795"], ["company_id", "130"]]
+  [1m[35m (2.2ms)[0m  [1m[36mcommit transaction[0m
+Started GET "/api/v1/document_service/document/1" for ::1 at 2020-12-09 06:21:04 +0700
+  [1m[36mAuth Load (0.2ms)[0m  [1m[34mSELECT  "authentications".* FROM "authentications" WHERE "authentications"."token" = ? ORDER BY "authentications"."id" DESC LIMIT ?[0m  [["token", "eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJKb2pvbm9taWMiLCJpYXQiOjE2MDY2OTYyOTYsImV4cCI6MTYzODIzMjI5NiwiYXVkIjoiam9qb25vbWljLmNvbSIsInN1YiI6Impvam9hcmllZiIsImNvbXBhbnlfaWQiOiIxMzAiLCJ1c2VyX2lkIjoiMTIwIn0.w5-kcCWmvsGNJTZpRPiWmQ7TpEwgu_hQv-GAUpqUjPA"], ["LIMIT", 1]]
+Started GET "/api/v1/document_service/document/1" for ::1 at 2020-12-09 06:21:11 +0700
+  [1m[36mAuth Load (0.3ms)[0m  [1m[34mSELECT  "authentications".* FROM "authentications" WHERE "authentications"."token" = ? ORDER BY "authentications"."id" DESC LIMIT ?[0m  [["token", "eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJKb2pvbm9taWMiLCJpYXQiOjE2MDY2OTYyOTYsImV4cCI6MTYzODIzMjI5NiwiYXVkIjoiam9qb25vbWljLmNvbSIsInN1YiI6Impvam9hcmllZiIsImNvbXBhbnlfaWQiOiIxMzAiLCJ1c2VyX2lkIjoiMTIwIn0.w5-kcCWmvsGNJTZpRPiWmQ7TpEwgu_hQv-GAUpqUjPA"], ["LIMIT", 1]]
+Started GET "/api/v1/document_service/document/1" for ::1 at 2020-12-09 06:21:21 +0700
+  [1m[36mAuth Load (0.2ms)[0m  [1m[34mSELECT  "authentications".* FROM "authentications" WHERE "authentications"."token" = ? ORDER BY "authentications"."id" DESC LIMIT ?[0m  [["token", "eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJKb2pvbm9taWMiLCJpYXQiOjE2MDY2OTYyOTYsImV4cCI6MTYzODIzMjI5NiwiYXVkIjoiam9qb25vbWljLmNvbSIsInN1YiI6Impvam9hcmllZiIsImNvbXBhbnlfaWQiOiIxMzAiLCJ1c2VyX2lkIjoiMTIwIn0.w5-kcCWmvsGNJTZpRPiWmQ7TpEwgu_hQv-GAUpqUjPA"], ["LIMIT", 1]]
+  [1m[36mDsr Load (0.2ms)[0m  [1m[34mSELECT  "document_services".* FROM "document_services" WHERE "document_services"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+Started POST "/api/v1/document_service/document" for ::1 at 2020-12-09 06:24:34 +0700
+  [1m[36mAuth Load (0.1ms)[0m  [1m[34mSELECT  "authentications".* FROM "authentications" WHERE "authentications"."token" = ? ORDER BY "authentications"."id" DESC LIMIT ?[0m  [["token", "eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJKb2pvbm9taWMiLCJpYXQiOjE2MDY2OTYyOTYsImV4cCI6MTYzODIzMjI5NiwiYXVkIjoiam9qb25vbWljLmNvbSIsInN1YiI6Impvam9hcmllZiIsImNvbXBhbnlfaWQiOiIxMzAiLCJ1c2VyX2lkIjoiMTIwIn0.w5-kcCWmvsGNJTZpRPiWmQ7TpEwgu_hQv-GAUpqUjPA"], ["LIMIT", 1]]
+  [1m[36mDsr Load (0.1ms)[0m  [1m[34mSELECT  "document_services".* FROM "document_services" WHERE "document_services"."id" = ? LIMIT ?[0m  [["id", 821], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (0.4ms)[0m  [1m[32mINSERT INTO "document_services" ("id", "name", "type_item", "folder_id", "content", "owner_id", "share", "timestamp", "company_id") VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)[0m  [["id", 821], ["name", "Dosasasac Tech"], ["type_item", 1], ["folder_id", "1212212121"], ["content", "{\"blocks\"=>[{\"type\"=>\"paragraph\", \"text\"=>\"This is paragraph\"}]}"], ["owner_id", "120"], ["share", "[1, 23, 4232, 121]"], ["timestamp", "1605081795"], ["company_id", "130"]]
+  [1m[35m (1.7ms)[0m  [1m[36mcommit transaction[0m
+Started POST "/api/v1/document_service/document" for ::1 at 2020-12-09 06:24:44 +0700
+  [1m[36mAuth Load (0.3ms)[0m  [1m[34mSELECT  "authentications".* FROM "authentications" WHERE "authentications"."token" = ? ORDER BY "authentications"."id" DESC LIMIT ?[0m  [["token", "eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJKb2pvbm9taWMiLCJpYXQiOjE2MDY2OTYyOTYsImV4cCI6MTYzODIzMjI5NiwiYXVkIjoiam9qb25vbWljLmNvbSIsInN1YiI6Impvam9hcmllZiIsImNvbXBhbnlfaWQiOiIxMzAiLCJ1c2VyX2lkIjoiMTIwIn0.w5-kcCWmvsGNJTZpRPiWmQ7TpEwgu_hQv-GAUpqUjPA"], ["LIMIT", 1]]
+  [1m[36mDsr Load (0.1ms)[0m  [1m[34mSELECT  "document_services".* FROM "document_services" WHERE "document_services"."id" = ? LIMIT ?[0m  [["id", 8231], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (0.3ms)[0m  [1m[32mINSERT INTO "document_services" ("id", "name", "type_item", "folder_id", "content", "owner_id", "share", "timestamp", "company_id") VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)[0m  [["id", 8231], ["name", "D2sdc Tech"], ["type_item", 1], ["folder_id", "1212212121"], ["content", "{\"blocks\"=>[{\"type\"=>\"paragraph\", \"text\"=>\"This is paragraph\"}]}"], ["owner_id", "120"], ["share", "[1, 23, 4232, 121]"], ["timestamp", "1605081795"], ["company_id", "130"]]
+  [1m[35m (5.3ms)[0m  [1m[36mcommit transaction[0m
+Started GET "/api/v1/document_service/folder/1212212121" for ::1 at 2020-12-09 06:25:13 +0700
+  [1m[36mAuth Load (0.2ms)[0m  [1m[34mSELECT  "authentications".* FROM "authentications" WHERE "authentications"."token" = ? ORDER BY "authentications"."id" DESC LIMIT ?[0m  [["token", "eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJKb2pvbm9taWMiLCJpYXQiOjE2MDY2OTYyOTYsImV4cCI6MTYzODIzMjI5NiwiYXVkIjoiam9qb25vbWljLmNvbSIsInN1YiI6Impvam9hcmllZiIsImNvbXBhbnlfaWQiOiIxMzAiLCJ1c2VyX2lkIjoiMTIwIn0.w5-kcCWmvsGNJTZpRPiWmQ7TpEwgu_hQv-GAUpqUjPA"], ["LIMIT", 1]]
+  [1m[36mDsr Load (0.2ms)[0m  [1m[34mSELECT "document_services".* FROM "document_services" WHERE "document_services"."folder_id" = ? AND "document_services"."type_item" = ?[0m  [["folder_id", "1212212121"], ["type_item", 1]]
+Started GET "/api/v1/document_service/folder/1212212121" for ::1 at 2020-12-09 06:29:33 +0700
+Started GET "/api/v1/document_service/folder/1212212121" for ::1 at 2020-12-09 06:29:49 +0700
+  [1m[36mAuth Load (0.2ms)[0m  [1m[34mSELECT  "authentications".* FROM "authentications" WHERE "authentications"."token" = ? ORDER BY "authentications"."id" DESC LIMIT ?[0m  [["token", "eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJKb2pvbm9taWMiLCJpYXQiOjE2MDY2OTYyOTYsImV4cCI6MTYzODIzMjI5NiwiYXVkIjoiam9qb25vbWljLmNvbSIsInN1YiI6Impvam9hcmllZiIsImNvbXBhbnlfaWQiOiIxMzAiLCJ1c2VyX2lkIjoiMTIwIn0.w5-kcCWmvsGNJTZpRPiWmQ7TpEwgu_hQv-GAUpqUjPA"], ["LIMIT", 1]]
+  [1m[36mDsr Load (0.3ms)[0m  [1m[34mSELECT "document_services".* FROM "document_services" WHERE "document_services"."folder_id" = ? AND "document_services"."type_item" = ?[0m  [["folder_id", "1212212121"], ["type_item", 1]]
+Started DELETE "/api/v1/document_service/document" for ::1 at 2020-12-09 06:30:01 +0700
+  [1m[36mAuth Load (0.2ms)[0m  [1m[34mSELECT  "authentications".* FROM "authentications" WHERE "authentications"."token" = ? ORDER BY "authentications"."id" DESC LIMIT ?[0m  [["token", "eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJKb2pvbm9taWMiLCJpYXQiOjE2MDY2OTYyOTYsImV4cCI6MTYzODIzMjI5NiwiYXVkIjoiam9qb25vbWljLmNvbSIsInN1YiI6Impvam9hcmllZiIsImNvbXBhbnlfaWQiOiIxMzAiLCJ1c2VyX2lkIjoiMTIwIn0.w5-kcCWmvsGNJTZpRPiWmQ7TpEwgu_hQv-GAUpqUjPA"], ["LIMIT", 1]]
+Started DELETE "/api/v1/document_service/document" for ::1 at 2020-12-09 06:30:41 +0700
+  [1m[36mAuth Load (0.2ms)[0m  [1m[34mSELECT  "authentications".* FROM "authentications" WHERE "authentications"."token" = ? ORDER BY "authentications"."id" DESC LIMIT ?[0m  [["token", "eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJKb2pvbm9taWMiLCJpYXQiOjE2MDY2OTYyOTYsImV4cCI6MTYzODIzMjI5NiwiYXVkIjoiam9qb25vbWljLmNvbSIsInN1YiI6Impvam9hcmllZiIsImNvbXBhbnlfaWQiOiIxMzAiLCJ1c2VyX2lkIjoiMTIwIn0.w5-kcCWmvsGNJTZpRPiWmQ7TpEwgu_hQv-GAUpqUjPA"], ["LIMIT", 1]]
+Started DELETE "/api/v1/document_service/document" for ::1 at 2020-12-09 06:30:48 +0700
+  [1m[36mAuth Load (0.3ms)[0m  [1m[34mSELECT  "authentications".* FROM "authentications" WHERE "authentications"."token" = ? ORDER BY "authentications"."id" DESC LIMIT ?[0m  [["token", "eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJKb2pvbm9taWMiLCJpYXQiOjE2MDY2OTYyOTYsImV4cCI6MTYzODIzMjI5NiwiYXVkIjoiam9qb25vbWljLmNvbSIsInN1YiI6Impvam9hcmllZiIsImNvbXBhbnlfaWQiOiIxMzAiLCJ1c2VyX2lkIjoiMTIwIn0.w5-kcCWmvsGNJTZpRPiWmQ7TpEwgu_hQv-GAUpqUjPA"], ["LIMIT", 1]]
+  [1m[35mSQL (0.2ms)[0m  [1m[31mDELETE FROM "document_services" WHERE "document_services"."id" = ?[0m  [["id", nil]]
+Started DELETE "/api/v1/document_service/document" for ::1 at 2020-12-09 06:30:58 +0700
+  [1m[36mAuth Load (0.1ms)[0m  [1m[34mSELECT  "authentications".* FROM "authentications" WHERE "authentications"."token" = ? ORDER BY "authentications"."id" DESC LIMIT ?[0m  [["token", "eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJKb2pvbm9taWMiLCJpYXQiOjE2MDY2OTYyOTYsImV4cCI6MTYzODIzMjI5NiwiYXVkIjoiam9qb25vbWljLmNvbSIsInN1YiI6Impvam9hcmllZiIsImNvbXBhbnlfaWQiOiIxMzAiLCJ1c2VyX2lkIjoiMTIwIn0.w5-kcCWmvsGNJTZpRPiWmQ7TpEwgu_hQv-GAUpqUjPA"], ["LIMIT", 1]]
+  [1m[35mSQL (0.1ms)[0m  [1m[31mDELETE FROM "document_services" WHERE "document_services"."id" = ?[0m  [["id", nil]]
+Started GET "/api/v1/document_service/" for ::1 at 2020-12-09 12:52:25 +0700
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  
+ActionController::RoutingError (No route matches [GET] "/api/v1/document_service"):
+  
+actionpack (5.1.7) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.7) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.7) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.7) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.2) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.2.3) lib/rack/method_override.rb:24:in `call'
+rack (2.2.3) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.7) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.2.3) lib/rack/sendfile.rb:110:in `call'
+railties (5.1.7) lib/rails/engine.rb:522:in `call'
+puma (3.12.6) lib/puma/configuration.rb:227:in `call'
+puma (3.12.6) lib/puma/server.rb:706:in `handle_request'
+puma (3.12.6) lib/puma/server.rb:476:in `process_client'
+puma (3.12.6) lib/puma/server.rb:334:in `block in run'
+puma (3.12.6) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+Started GET "/api/v1/document_service/" for ::1 at 2020-12-09 12:52:47 +0700
+  [1m[36mAuth Load (0.1ms)[0m  [1m[34mSELECT  "authentications".* FROM "authentications" WHERE "authentications"."token" = ? ORDER BY "authentications"."id" DESC LIMIT ?[0m  [["token", "eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJKb2pvbm9taWMiLCJpYXQiOjE2MDY2OTYyOTYsImV4cCI6MTYzODIzMjI5NiwiYXVkIjoiam9qb25vbWljLmNvbSIsInN1YiI6Impvam9hcmllZiIsImNvbXBhbnlfaWQiOiIxMzAiLCJ1c2VyX2lkIjoiMTIwIn0.w5-kcCWmvsGNJTZpRPiWmQ7TpEwgu_hQv-GAUpqUjPA"], ["LIMIT", 1]]
+Started GET "/api/auth" for ::1 at 2020-12-09 12:53:04 +0700
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (1.0ms)[0m  [1m[32mINSERT INTO "authentications" ("token", "expired_at", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["token", "eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJKb2pvbm9taWMiLCJpYXQiOjE2MDY2OTYyOTYsImV4cCI6MTYzODIzMjI5NiwiYXVkIjoiam9qb25vbWljLmNvbSIsInN1YiI6Impvam9hcmllZiIsImNvbXBhbnlfaWQiOiIxMzAiLCJ1c2VyX2lkIjoiMTIwIn0.w5-kcCWmvsGNJTZpRPiWmQ7TpEwgu_hQv-GAUpqUjPA"], ["expired_at", "2020-12-09 14:53:04 +0700"], ["created_at", "2020-12-09 05:53:04.752487"], ["updated_at", "2020-12-09 05:53:04.752487"]]
+  [1m[35m (2.4ms)[0m  [1m[36mcommit transaction[0m
+Started GET "/api/v1/document_service/" for ::1 at 2020-12-09 12:53:15 +0700
+  [1m[36mAuth Load (0.3ms)[0m  [1m[34mSELECT  "authentications".* FROM "authentications" WHERE "authentications"."token" = ? ORDER BY "authentications"."id" DESC LIMIT ?[0m  [["token", "eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJKb2pvbm9taWMiLCJpYXQiOjE2MDY2OTYyOTYsImV4cCI6MTYzODIzMjI5NiwiYXVkIjoiam9qb25vbWljLmNvbSIsInN1YiI6Impvam9hcmllZiIsImNvbXBhbnlfaWQiOiIxMzAiLCJ1c2VyX2lkIjoiMTIwIn0.w5-kcCWmvsGNJTZpRPiWmQ7TpEwgu_hQv-GAUpqUjPA"], ["LIMIT", 1]]
+  [1m[36mDsr Load (0.3ms)[0m  [1m[34mSELECT "document_services".* FROM "document_services" WHERE "document_services"."type_item" = ?[0m  [["type_item", 0]]
+Started POST "/api/v1/document_service/folder" for ::1 at 2020-12-09 12:55:32 +0700
+  [1m[36mAuth Load (0.4ms)[0m  [1m[34mSELECT  "authentications".* FROM "authentications" WHERE "authentications"."token" = ? ORDER BY "authentications"."id" DESC LIMIT ?[0m  [["token", "eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJKb2pvbm9taWMiLCJpYXQiOjE2MDY2OTYyOTYsImV4cCI6MTYzODIzMjI5NiwiYXVkIjoiam9qb25vbWljLmNvbSIsInN1YiI6Impvam9hcmllZiIsImNvbXBhbnlfaWQiOiIxMzAiLCJ1c2VyX2lkIjoiMTIwIn0.w5-kcCWmvsGNJTZpRPiWmQ7TpEwgu_hQv-GAUpqUjPA"], ["LIMIT", 1]]
+  [1m[36mDsr Load (0.3ms)[0m  [1m[34mSELECT  "document_services".* FROM "document_services" WHERE "document_services"."id" = ? AND "document_services"."name" = ? AND "document_services"."timestamp" = ? AND "document_services"."owner_id" = ? AND "document_services"."company_id" = ? AND "document_services"."type_item" = ? LIMIT ?[0m  [["id", 1212212121], ["name", "hoho"], ["timestamp", "12121212"], ["owner_id", "120"], ["company_id", "130"], ["type_item", 0], ["LIMIT", 1]]
+Started DELETE "/api/v1/document_service/folder" for ::1 at 2020-12-09 12:55:57 +0700
+  [1m[36mAuth Load (0.2ms)[0m  [1m[34mSELECT  "authentications".* FROM "authentications" WHERE "authentications"."token" = ? ORDER BY "authentications"."id" DESC LIMIT ?[0m  [["token", "eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJKb2pvbm9taWMiLCJpYXQiOjE2MDY2OTYyOTYsImV4cCI6MTYzODIzMjI5NiwiYXVkIjoiam9qb25vbWljLmNvbSIsInN1YiI6Impvam9hcmllZiIsImNvbXBhbnlfaWQiOiIxMzAiLCJ1c2VyX2lkIjoiMTIwIn0.w5-kcCWmvsGNJTZpRPiWmQ7TpEwgu_hQv-GAUpqUjPA"], ["LIMIT", 1]]
+  [1m[35mSQL (0.2ms)[0m  [1m[31mDELETE FROM "document_services" WHERE "document_services"."id" = ?[0m  [["id", nil]]
+Started GET "/api/v1/document_service/folder/1212212121" for ::1 at 2020-12-09 12:56:23 +0700
+  [1m[36mAuth Load (0.3ms)[0m  [1m[34mSELECT  "authentications".* FROM "authentications" WHERE "authentications"."token" = ? ORDER BY "authentications"."id" DESC LIMIT ?[0m  [["token", "eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJKb2pvbm9taWMiLCJpYXQiOjE2MDY2OTYyOTYsImV4cCI6MTYzODIzMjI5NiwiYXVkIjoiam9qb25vbWljLmNvbSIsInN1YiI6Impvam9hcmllZiIsImNvbXBhbnlfaWQiOiIxMzAiLCJ1c2VyX2lkIjoiMTIwIn0.w5-kcCWmvsGNJTZpRPiWmQ7TpEwgu_hQv-GAUpqUjPA"], ["LIMIT", 1]]
+  [1m[36mDsr Load (0.3ms)[0m  [1m[34mSELECT "document_services".* FROM "document_services" WHERE "document_services"."folder_id" = ? AND "document_services"."type_item" = ?[0m  [["folder_id", "1212212121"], ["type_item", 1]]
